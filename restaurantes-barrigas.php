@@ -25,14 +25,14 @@
         <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/tacobaja/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/barrigas/large.jpg" class="img-responsive" alt="">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/tacobaja/logo.jpg" alt="">
+            <img src="img/restaurantes/barrigas/logo.jpg" alt="">
           </div>
         </div>
       </div>
