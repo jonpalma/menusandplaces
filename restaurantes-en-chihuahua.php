@@ -30,8 +30,8 @@
               <div class="info"><h4>AKARI</h4><p>Akari lleva más de 15 años sirviendo excelente sushi, teriyaki, teppan yaki y demás especialidades japonesas...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>COME CAMILA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="restaurantes-comecamila.php"><img src="img/restaurantes/comecamila/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>COME CAMILA</h4><p>Come Camila es un favorito de la gente, su cocina de calidad y platillos originales lo han hecho famoso...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-buffalo.php"><img src="img/restaurantes/buffalo/thumb.jpg" class="img-responsive" alt=""></a>
@@ -41,7 +41,7 @@
           <div class="">
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-baldoria.php"><img src="img/restaurantes/baldoria/thumb.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>BALDORIA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <div class="info"><h4>BALDORIA</h4><p>Baldoria es un restaurante nuevo en la ciudad, inició sus operaciones en la ciudad de Torreón, cuenta con...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-cremaynata.php"><img src="img/restaurantes/cremanata/thumb.jpg" class="img-responsive" alt=""></a>
@@ -69,12 +69,12 @@
 
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>ITALINISSIMO</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="restaurantes-italianisimmo.php"><img src="img/restaurantes/italianisimmo/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>ITALIANISIMMO</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>PIZERIA LA SIERRA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="restaurantes-lasierra.php"><img src="img/restaurantes/lasierra/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>PIZERIA LA SIERRA</h4><p>Pizzería La Sierra es un restaurante emblemático de la región, donde te deleitarás con la auténtica pizza menonita de inigualable...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-el-costenito.php"><img src="img/restaurantes/costenito/thumb.jpg" class="img-responsive" alt=""></a>

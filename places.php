@@ -30,8 +30,8 @@
               <div class="info"><h4>EL HOJALDRE</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>EL ELEFANTE DE LA BASTILLA</h4><p>Lorem ipsum dolor sit aesciunt.</p></div>
+              <a href="places-elefantebastilla.php"><img src="img/places/elefantebastilla/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>EL ELEFANTE DE LA BASTILLA</h4><p>Elefante de la Bastilla es una pequeña...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
@@ -40,23 +40,23 @@
           </div>
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>CAFÉ MÉXICO CORAZÓN</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="restaurantes-cafemexico.php"><img src="img/restaurantes/cafemexico/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>CAFÉ MÉXICO CORAZÓN</h4><p>Café México Corazón de Melón es un encantador y auténtico lugar que tiene una esencia única...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>BUFFALLO WILD WINGS</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="restaurantes-buffalo.php"><img src="img/restaurantes/buffalo/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>BUFFALLO WILD WINGS</h4><p>Buffalo Wild Wings es un lugar donde hay todos los deportes todas las temporadas; mas de 40 pantallas HD...</p></div>
             </div>
 
           </div>
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>SUNSET BAJA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="restaurantes-sunset-baja.php"><img src="img/restaurantes/sunset/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>SUNSET BAJA</h4><p>De la misma familia de Taco Baja (página de enseguida), con un concepto un poco más refinado pero con esa misma esencia...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>TACO BAJA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="restaurantes-taco-baja.php"><img src="img/restaurantes/tacobaja/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>TACO BAJA</h4><p>Comenzó su historia en un pequeño local escondido, ahora son todo un favorito de la gente, sinónimo de buena comida...</p></div>
             </div>
           </div>
       </div>

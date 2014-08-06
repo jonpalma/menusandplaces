@@ -26,8 +26,8 @@
         <div class="col-md-9 col-sm-9">
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>LOTUS</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="night-life-lotus.php"><img src="img/nightlife/lotus/thumb.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>LOTUS</h4><p>Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos. Se ha puesto muy...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
