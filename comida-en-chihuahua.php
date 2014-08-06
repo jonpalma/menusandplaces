@@ -34,8 +34,8 @@
               <div class="info"><h4>BURRITOS EL CHAPO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-buffalo.php"><img src="img/restaurantes/buffalo/thumb.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>BUFFALLO WILD WINGS</h4><p>Buffalo Wild Wings es un lugar donde hay todos los deportes todas las temporadas; mas de 40 pantallas HD...</p></div>
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>HAMBURGUESAS HECHAS COMO DIOS MANDA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
           </div>
       </div>

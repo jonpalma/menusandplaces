@@ -27,11 +27,21 @@
           <div class="">
               <div class="col-md-4 col-sm-6">
               <a href="night-life-lotus.php"><img src="img/nightlife/lotus/thumb.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>LOTUS</h4><p>Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos. Se ha puesto muy...</p></div>
+              <div class="info"><h4>LOTUS</h4><p>Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
-              <div class="info"><h4>SPORTS GAREN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><h4>SPORTS GARDEN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
+           <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>ROCK AND BOWL</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
+          </div>
+          <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt=""></a>
+              <div class="info"><h4>EL VIEJO REFUGIO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
           </div>
       </div>
