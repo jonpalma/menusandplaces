@@ -27,7 +27,7 @@
             </ol>
             <div class="carousel-inner">
               <div class="item active">
-                <img src="img/banner/1.jpg" class="img-responsive" alt="">
+                <img src="img/banner/1.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua">
                 <div class="container">
                   <div class="carousel-caption">
                     <h1></h1>
@@ -35,14 +35,14 @@
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/2.jpg" class="img-responsive" alt="">
+                <img src="img/banner/2.jpg" class="img-responsive" alt="Restaurante Baldoria Chihuahua">
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/3.jpg" class="img-responsive" alt="">
+                <img src="img/banner/3.jpg" class="img-responsive" alt="Restaurante Buffalo Wild Wings Chihuahua">
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
@@ -50,14 +50,14 @@
               </div>
              
               <div class="item">
-                <img src="img/banner/4.jpg" class="img-responsive" alt="">
+                <img src="img/banner/4.jpg" class="img-responsive" alt="Restaurante El Costeñito Chihuahua">
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/5.jpg" class="img-responsive" alt="">
+                <img src="img/banner/5.jpg" class="img-responsive" alt="Restaurante Barrigas Chihuahua">
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
@@ -77,19 +77,19 @@
           <div class="">
             
             <div class="col-md-3 col-sm-6">
-              <a href="restaurantes.php"><img src="img/1.png" class="img-responsive" alt="Restaurante de comida en chihuahua" title="Ver Revista Online"></a>
+              <a href="restaurantes-en-chihuahua.php"><img src="img/1.png" class="img-responsive" alt="Restaurantes de comida en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="revista.php"><img src="img/2.png" class="img-responsive" alt="Restaurante de comida en chihuahua" title="Ver Revista Online"></a>
+              <a href="night-life-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="revista.php"><img src="img/3.png" class="img-responsive" alt="Restaurante de comida en chihuahua" title="Ver Revista Online"></a>
+              <a href="places.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="revista.php"><img src="img/4.png" class="img-responsive" alt="Restaurante de comida en chihuahua" title="Ver Revista Online"></a>
+              <a href="comida-en-chihuahua.php"><img src="img/4.png" class="img-responsive" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor  ratione accusamus ipsa ut facere fugit voluptatum odio assumenda quidem eaque incidunt optio.</p></div>
             </div>
           </div> 
