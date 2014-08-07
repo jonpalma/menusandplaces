@@ -6,7 +6,7 @@
     <title>Menus and Places | Restaurantes en Chihuahua</title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="keywords" content="Restaurantes en chihuahua, vida nocturna en chihuahua, lugares en chihuahua, comida callejera en chihuahua, revista de restaurantes, quiero comer en chihuahua">
     <?php include('modules/head.php'); ?>
   </head>
   <body>

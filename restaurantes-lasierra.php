@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Pizzería La Sierra en Chihuahua</title>
 
-    <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="description" content="Pizzería La Sierra es un restaurante emblemático de la región, donde te deleitarás con la auténtica pizza menonita de inigualable sabor.">
+    <meta name="keywords" content="Restaurantes en chihuahua, pizzería la sierra, pizzería la sierra chihuahua, pizza, pizza menonita, ambiente familiar, modernas instalaciones, servicio de primera calidad, desayunos, cortes, pastas, ensaladas, tacos, hamburguesas, filetes de pescado, pollo, alitas, exquisitos postres, eventos especiales">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> La Sierra <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Pizzería La Sierra <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/lasierra/lasierra.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/lasierra/lasierra.jpg" class="img-responsive" alt="Pizzería La Sierra">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/lasierra/logo.jpg" alt="">
+            <img src="img/restaurantes/lasierra/logo.jpg" alt="Logotipo Pizzería La Sierra">
           </div>
         </div>
       </div>

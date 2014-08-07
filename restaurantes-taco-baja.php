@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Taco Baja en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Taco Baja comenzó su historia en un pequeño local escondido, ahora son todo un favorito de la gente, sinónimo de buena comida y buen ambiente.">
+    <meta name="keywords" content="Restaurantes en chihuahua, taco baja, taco baja chihuahua, buena comida, buen ambiente, agradable terraza, cerveza, frescos platillos, aguachiles, ceviches, tacos, quesadillas">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Taco Baja <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Taco Baja <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/tacobaja/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/tacobaja/large.jpg" class="img-responsive" alt="Restaurante Taco Baja Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/tacobaja/logo.jpg" alt="">
+            <img src="img/restaurantes/tacobaja/logo.jpg" alt="Logotipo Taco Baja">
           </div>
         </div>
       </div>

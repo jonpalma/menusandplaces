@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes El Costeñito en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="El Costeñito es un lugar en donde la vas a pasar bien con los amigos y disfrutar de ricos mariscos, cocteles y bebidas preparadas.">
+    <meta name="keywords" content="Restaurantes en chihuahua, el costeñito, el costeñito chihuahua, mariscos, cocteles, bebidas preparadas, cervezas, comida, buen rato, precios razonables, ubicación excelente">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> El Costeñito <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > El Costeñito <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/costenito/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/costenito/large.jpg" class="img-responsive" alt="Restaurante El Costeñito Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/costenito/logo.jpg" alt="">
+            <img src="img/restaurantes/costenito/logo.jpg" alt="Logotipo El Costeñito">
           </div>
         </div>
       </div>

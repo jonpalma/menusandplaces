@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Baldoria en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Baldoria es un restaurante nuevo en la ciudad, inició sus operaciones en la ciudad de Torreón, cuenta con una sucursal en Gómez Palacio y ahora en Chihuahua.">
+    <meta name="keywords" content="restaurantes en chihuahua, cocina italiana, pastas, ensaladas, calzone, panini, postres, pizza, pizzas al horno de leña, cava de vinos, baldoria chihuahua, comidas de negocios, reuniones con amigos, reuniones familiares">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Baldoria <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Baldoria <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/baldoria/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/baldoria/large.jpg" class="img-responsive" alt="Restaurante Baldoria Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/baldoria/logo.jpg" alt="">
+            <img src="img/restaurantes/baldoria/logo.jpg" alt="Logotipo Baldoria">
           </div>
         </div>
       </div>

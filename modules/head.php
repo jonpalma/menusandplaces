@@ -1,5 +1,5 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Jon Palma - www.mixen.mx">
+    <meta name="author" content="Agencia Mixen - www.mixen.mx">
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- CSS -->

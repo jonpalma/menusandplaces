@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Night Life Lotus en Chihuahua</title>
 
-    <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="description" content="Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos.">
+    <meta name="keywords" content="Night life en chihuahua, tragos, buenos amigos, pista de baile, música, pop en inglés, pop en español,  bebidas">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Lotus <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Lotus <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/nightlife/lotus/lotus.jpg" class="img-responsive" alt="">
+              <img src="img/nightlife/lotus/lotus.jpg" class="img-responsive" alt="Night Life Lotus Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/nightlife/lotus/logo.jpg" alt="">
+            <img src="img/nightlife/lotus/logo.jpg" alt="Logotipo Lotus">
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos. Se ha puesto muy de moda, bastante gente (especialmente niñas guapas) lo visitan. La pista de baile luminosa que cambia de color al ritmo de la música pop en inglés y en español te harán presumir tus mejores pasoa de baile. Haz reservación y arréglate bien, no sabes cuando vas a conocer a esa persona especial.</p>
+            <p><span class="titulo-rest"></span> Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos. Se ha puesto muy de moda, bastante gente (especialmente niñas guapas) lo visitan. La pista de baile luminosa que cambia de color al ritmo de la música pop en inglés y en español te harán presumir tus mejores pasos de baile. Haz reservación y arréglate bien, no sabes cuando vas a conocer a esa persona especial.</p>
 
             <p>Lotus is the perfect place to grab some drinks and forget about the week’s stress in the company of your funniest friends. It has gotten very popular among locals (specially pretty ladies) Plus, the magic dancefloor that changes colors to the beat of the music will guarantee to put your best dance moves in practice. Great place to party and have a good time.</p>
 

@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Come Camila en Chihuahua</title>
 
-    <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="description" content="Come Camila es un favorito de la gente, su cocina de calidad y platillos originales lo han hecho famoso.">
+    <meta name="keywords" content="Restaurantes en chihuahua, come camila, come camila chihuahua, comida familiar, cena en pareja, tragos con amigos, terraza, Ensaladas, Panini, salmones, pastas, tostadas de atún, portobelo, portobelo camila">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Come Camila <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Come Camila <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/comecamila/comecamila.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/comecamila/comecamila.jpg" class="img-responsive" alt="Restaurante Come Camila Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/comecamila/logo.jpg" alt="">
+            <img src="img/restaurantes/comecamila/logo.jpg" alt="Logotipo Come Camila">
           </div>
         </div>
       </div>

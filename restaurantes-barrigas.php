@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Barrigas en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Barrigas es un lugar totalmente familiar, ideal para visitarlo desde el desayuno hasta la cena.">
+    <meta name="keywords" content="Restaurantes en chihuahua, barrigas, barrigas chihuahua, platillos mexicanos, comida mexicana, tacos, tacolandia, karaoke">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Barrigas <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Barrigas <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/barrigas/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/barrigas/large.jpg" class="img-responsive" alt="Restaurante Barrigas Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/barrigas/logo.jpg" alt="">
+            <img src="img/restaurantes/barrigas/logo.jpg" alt="Logotipo Barrigas">
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Barrigas es un lugar totalmente familiar, ideal para visitarlo desde el desayuno hasta la cena. La decoración rústica y acogedora acompaña os platillos típicos mexicanos y su nuevo menú seguro tiene opciones para todos los gustos, incluso lo hemos bautizado como “Tacolandia” por sus más de 20 opciones en tacos. Ven a exponer tu talento en los viernes karaoke de 9pm a 1am, te sorprenderás que tan bien cantas. </p>
+            <p><span class="titulo-rest"></span> Barrigas es un lugar totalmente familiar, ideal para visitarlo desde el desayuno hasta la cena. La decoración rústica y acogedora acompaña los platillos típicos mexicanos y su nuevo menú seguro tiene opciones para todos los gustos, incluso lo hemos bautizado como “Tacolandia” por sus más de 20 opciones en tacos. Ven a exponer tu talento en los viernes karaoke de 9pm a 1am, te sorprenderás que tan bien cantas. </p>
 
             <p>Barrigas is casual and a comfortable place to visit from breakfast to dinner. The cozy decoration guarantees and enjoyable meal form from is wide and recently renovated menu that will make you feel in “Tacoland” with more than 20 flavors in tacos; if tacos are not your thing, order one of their signatures Mexican style dishes. Also, come and enjoy the sound of lovely voice in the karaoke friday from 9pm till 1 am. </p>
 

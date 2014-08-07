@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Sunset Baja en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Sunset Baja es de la misma familia de Taco Baja, con un concepto un poco más refinado pero con esa misma esencia, frescura y variedad en sus mariscos.">
+    <meta name="keywords" content="Restaurantes en chihuahua, sunset baja, sunset baja chihuahua, taco baja, mariscos, terraza, deliciosos platillos, comida maritima, cerveza, comida del mar">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Sunset Baja <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Sunset Baja <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/sunset/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/sunset/large.jpg" class="img-responsive" alt="Restaurante Sunset Baja Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/sunset/logo.jpg" alt="">
+            <img src="img/restaurantes/sunset/logo.jpg" alt="Logotipo Sunset Baja">
           </div>
         </div>
       </div>

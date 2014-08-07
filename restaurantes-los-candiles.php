@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Los Candiles en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Los Candiles es uno de los mejores restaurantes de la ciudad, ubicado dentro del Hotel Soberano. Su ambiente es elegante y al mismo tiempo relajado y agradable.">
+    <meta name="keywords" content="Restaurantes en chihuahua, los candiles, los candiles chihuahua, hotel soberano, hotel soberano chihuahua, ambiente elegante, ambiente relajado, ambiente agradable, platillos tradicionales, chef, cocina mexicana, especialidades internacionales, deliciosos postres, vista a la ciudad chihuahua">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> La Candiles <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Los Candiles <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/candiles/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/candiles/large.jpg" class="img-responsive" alt="Restaurantes Los Candiles Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/candiles/logo.jpg" alt="">
+            <img src="img/restaurantes/candiles/logo.jpg" alt="Logotipo Los Candiles">
           </div>
         </div>
       </div>

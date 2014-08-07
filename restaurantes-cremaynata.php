@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes La Crema y Nata en Chihuahua</title>
 
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="La Crema y Nata es un encantador restaurante adaptado en lo alto de una casa construida a principios de siglo XX.">
+    <meta name="keywords" content="Restaurantes en chihuahua, la crema y nata, la crema y nata chihuahua, gastronomía internacional, platillos gourmet, agradable comida, cena, postre">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> La Crema y Nata <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > La Crema y Nata <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/restaurantes/cremanata/large.jpg" class="img-responsive" alt="">
+              <img src="img/restaurantes/cremanata/large.jpg" class="img-responsive" alt="Restaurantes La Crema y Nata Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/cremanata/logo.jpg" alt="">
+            <img src="img/restaurantes/cremanata/logo.jpg" alt="Logotipo La Crema y Nata">
           </div>
         </div>
       </div>

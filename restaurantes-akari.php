@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Akari Japanese Food en Chihuahua</title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="keywords" content="Restaurantes en chihuahua, akari, akari chihuahua, comida japonesa, sushi, teriyaki, teppan yaki, japanese food ">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Akari Japanese Bistro <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Akari Japanese Bistro <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
-          <div class="row"> 
-            <div class="col-md-12">
-              <img src="img/restaurantes/akari/akari.jpg" class="img-responsive" alt="">
-            </div> <br><br>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
+        <div class="row"> 
+          <div class="col-md-12">
+            <img src="img/restaurantes/akari/akari.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua">
+          </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/akari/logo-akari.jpg" alt="">
+            <img src="img/restaurantes/akari/logo-akari.jpg" alt="Logotipo Akari">
           </div>
         </div>
       </div>
