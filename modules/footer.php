@@ -13,10 +13,10 @@
               <div class="col-lg-3 col-md-3 col-sm-3 white">
                 <h3>SERVICIOS </h3>
                 <ul>
-                  <li><a href="restaurantes.php">- Restaurantes</a></li>
-                  <li><a href="restaurantes.php">- Night Life</a></li>
-                  <li><a href="">- Places </a></li>
-                  <li><a href="">- Callejeros </a></li>
+                  <li><a href="restaurantes-en-chihuahua.php">- Restaurantes</a></li>
+                  <li><a href="night-life-chihuahua.php">- Night Life</a></li>
+                  <li><a href="places.php">- Places </a></li>
+                  <li><a href="comida-en-chihuahua.php">- Callejeros </a></li>
                 </ul>
               </div>
               <div class="col-lg-3 col-md-3 col-sm-3 white">
@@ -31,7 +31,9 @@
                 <ul>
                   <li>
                     <p>ventas@menusandplaces.com <br>
-                      52+ (614) 410 1010 <br>
+                      01 (614) 458 8585 <br>
+                      01 (614) 152 9808 <br>
+                      01 (614) 458 8585 <br>
                       Chihuahua, México.</p>
                   </li>
                 </ul>
