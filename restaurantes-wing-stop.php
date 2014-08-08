@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes Akari Japanese Food en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Wing Stop en Chihuahua</title>
 
-    <meta name="description" content="Akari lleva más de 15 años sirviendo excelente sushi, teriyaki, teppan yaki y demás especialidades japonesas">
-    <meta name="keywords" content="Restaurantes en chihuahua, akari, akari chihuahua, comida japonesa, sushi, teriyaki, teppan yaki, japanese food ">
+    <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
+    <meta name="keywords" content="">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Akari Japanese Bistro <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Wing Stop <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
         <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
         <div class="row"> 
           <div class="col-md-12">
-            <img src="img/restaurantes/akari/akari.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua">
+            <img src="img/restaurantes/wingstop/wingstop.jpg" class="img-responsive" alt="Restaurante Wing Stop Chihuahua">
           </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/restaurantes/akari/logo-akari.jpg" alt="Logotipo Akari">
+            <img src="img/restaurantes/wingstop/logo.jpg" alt="Logotipo Akari">
           </div>
         </div>
       </div>
@@ -40,16 +40,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Akari lleva más de 15 años sirviendo excelente sushi, teriyaki, teppan yaki y demás especialidades japonesas preparadas con ingredientes importados de la más alta calidad. Su moderna y agradable decoración lo convierte en un lugar ideal para cualquier tipo de plan desde la comida hasta la cena o incluso para disfrutar de unos tragos por la noche. Pedidos a domicilio al: 437 02 02 y 423 38 38.</p>
+            <p><span class="titulo-rest"></span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mollis dolor sapien, quis ultricies elit venenatis at. Aenean auctor velit dolor, vel facilisis nulla tristique et. Sed lobortis, nunc vitae interdum laoreet, mauris quam ultricies purus, a faucibus nunc mauris non enim. Aenean eget mi ante. Phasellus volutpat diam turpis, in luctus nisl fermentum non. Nam molestie nunc nisl, rutrum feugiat sem mollis at.</p>
 
-            <p>Akari is best known for preparing excellent sushi, teriyaki, teppan yaki and other japanese specialties with high-quality imported ingredients; they’ve been doing it for more than fifteen years. The modern and comfortable décor sets the perfect atmosphere to visit it for lunch, dinner or even gather some relaxing drinks during the evening. Delivery orders: 437 02 02 / 423 38 38. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mollis dolor sapien, quis ultricies elit venenatis at. Aenean auctor velit dolor, vel facilisis nulla tristique et. Sed lobortis, nunc vitae interdum laoreet, mauris quam ultricies purus, a faucibus nunc mauris non enim. Aenean eget mi ante. Phasellus volutpat diam turpis, in luctus nisl fermentum non. Nam molestie nunc nisl, rutrum feugiat sem mollis at.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 6144256868 <br><br>
-                   <span class="info-rest">Dirección: </span>Perif. de la Juventud Vía Lombarda No. 3000 Plaza Distrito 1  <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 6141234567 <br><br>
+                   <span class="info-rest">Dirección: </span>Lorem ipsum dolor sit amet  <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->

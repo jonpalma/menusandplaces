@@ -18,7 +18,7 @@
       <div class="row">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Restaurantes <img src="img/icono-tit.png" > </h1></div>
       </div>
-    </div>
+    </div> 
     <!-- RESTAURANTES -->
     <div class="container"> 
       <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
@@ -30,7 +30,7 @@
               <div class="info"><h4>AKARI</h4><p>Akari lleva más de 15 años sirviendo excelente sushi, teriyaki, teppan yaki y demás especialidades japonesas...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Wing Stop Chihuahua"></a>
+              <a href="restaurantes-wing-stop.php"><img src="img/restaurantes/wingstop/thumb.jpg" class="img-responsive" alt="Restaurante Wing Stop Chihuahua"></a>
               <div class="info"><h4>WING STOP</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet urna et quam dignissim....</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
@@ -84,8 +84,8 @@
 
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Momma Chihuahua"></a>
-              <div class="info"><h4>MOMMA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Moma Chihuahua"></a>
+              <div class="info"><h4>MOMA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
           </div>
 

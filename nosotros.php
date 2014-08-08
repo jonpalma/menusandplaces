@@ -34,8 +34,8 @@
               <p>MENUSANDPLACES es una marca posicionado en el ramo de FOOD AND LIFESTYLE, el perfil de nuestro lector/usuario/seguidor es: personas que buscan de acceso a la información para el mayor aprovechamiento de la oferta restaurantera, turística y de entretenimiento en la ciudad. 
 
                 Contamos con 3 plataformas:</p>
-                <img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide">
-                <p>Es nuestra guía impresa bimensual, tenemos presencia en los cuartos de los principales hoteles de la ciudad y comercios y corporativos locales. Te anexo el Media Kit.</p> 
+                <a href="revista.php"><img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide"></a>
+                <p>Es nuestra guía impresa bimensual, tenemos presencia en los cuartos de los principales hoteles de la ciudad y comercios y corporativos locales.</p> 
                 <a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a>
                 <p>Es nuestra <em>fan page</em> de <em>FACEBOOK</em>, contamos con poco más de 9,000 seguidores con crecimientos de poco más de 1,000 por mes e impactos globales de más de 30,000 mensuales.</p> 
                 <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>
@@ -43,19 +43,10 @@
               <p>Para mayor información contáctanos <a href="contacto.php">aquí</a>.</p>
           </div>
           <div class="col-md-5 texto">
-            <div class="col-md-6"> <br><br>
-              <p><strong>Teléfono:</strong> 614 458 8585 <br><br>
-
-              <strong>Dirección: </strong>Aqui va la direccion del lugar con #5485 <br>
-              Chihuahua, M’exico
-
-              </p>
+            <div class="col-md-12">
+              <img src="img/logo-kmm.jpg" alt="Logotipo Karan Mann México" class="img-responsive">
             </div>
-            <div class="col-md-6"> <br><br>
-              <p><strong>Ver Menu:</strong> Descargar <br><br>
 
-              <strong>Ubicación:</strong> Ver</p>
-            </div>
 
           </div> 
         </div> <br>
