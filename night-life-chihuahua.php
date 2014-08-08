@@ -43,6 +43,14 @@
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Night Life El Viejo Refugio Chihuahua"></a>
               <div class="info"><h4>EL VIEJO REFUGIO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Night Life Delorean Chihuahua"></a>
+              <div class="info"><h4>DELOREAN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Night Life Aguafuerte Chihuahua"></a>
+              <div class="info"><h4>AGUAFUERTE</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
           </div>
       </div>
         <div class="col-md-3 col-sm-3">

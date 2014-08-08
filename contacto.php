@@ -74,19 +74,14 @@
             </div>
           </div>
         </form> 
-
           </div>
           <div class="col-md-5 texto">
-            <div class="col-md-6"> <br><br>
-              <p><strong>Teléfono:</strong> 614 458 8585 <br><br>
+            <div class="col-md-12"> <br><br>
+              <p><strong>Teléfono:</strong> 614 458 8585 / 614 152 98 08 / 614 153 5440 <br><br>
 
-              <strong>Dirección: </strong>Aqui va la direccion del lugar con #5485 <br>
-              Chihuahua, México. </p>
-            </div>
-            <div class="col-md-6"> <br><br>
-              <p><strong>Ver Menu:</strong> Descargar <br><br>
-
-              <strong>Ubicación:</strong> Ver</p>
+              <img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide">
+              <a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a>
+              <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>
             </div>
           </div> 
         </div> <br>

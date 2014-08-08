@@ -31,9 +31,16 @@
         <div class="row">
           <div class="col-md-7 texto">
             <h4><strong>¿Qué es Menus and Places?</strong></h4>
-            <p>Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per. </p>
-            <p>Ius id vidit volumus mandamus, vide veritus democritum te nec, ei eos debet libris consulatu. No mei ferri graeco dicunt, ad cum veri accommodare. Sed at malis omnesque delicata, usu et iusto zzril meliore. Dicunt maiorum eloquentiam cum cu, sit summo dolor essent te. Ne quodsi nusquam legendos has, ea dicit voluptua eloquentiam pro, ad sit quas qualisque. Eos vocibus deserunt quaestio ei. </p>
+              <p>MENUSANDPLACES es una marca posicionado en el ramo de FOOD AND LIFESTYLE, el perfil de nuestro lector/usuario/seguidor es: personas que buscan de acceso a la información para el mayor aprovechamiento de la oferta restaurantera, turística y de entretenimiento en la ciudad. 
 
+                Contamos con 3 plataformas:</p>
+                <img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide">
+                <p>Es nuestra guía impresa bimensual, tenemos presencia en los cuartos de los principales hoteles de la ciudad y comercios y corporativos locales. Te anexo el Media Kit.</p> 
+                <a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a>
+                <p>Es nuestra <em>fan page</em> de <em>FACEBOOK</em>, contamos con poco más de 9,000 seguidores con crecimientos de poco más de 1,000 por mes e impactos globales de más de 30,000 mensuales.</p> 
+                <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>
+                <p>Es nuestro sitio web en donde encontrarás una guía de los lugares más concurridos de la ciudad, algunos nuevos, los clásicos, los puestesitos y mucho más.</p>
+              <p>Para mayor información contáctanos <a href="contacto.php">aquí</a>.</p>
           </div>
           <div class="col-md-5 texto">
             <div class="col-md-6"> <br><br>

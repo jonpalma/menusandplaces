@@ -30,8 +30,8 @@
               <div class="info"><h4>AKARI</h4><p>Akari lleva más de 15 años sirviendo excelente sushi, teriyaki, teppan yaki y demás especialidades japonesas...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-comecamila.php"><img src="img/restaurantes/comecamila/thumb.jpg" class="img-responsive" alt="Restaurante Come Camila Chihuahua"></a>
-              <div class="info"><h4>COME CAMILA</h4><p>Come Camila es un favorito de la gente, su cocina de calidad y platillos originales lo han hecho famoso...</p></div>
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Wing Stop Chihuahua"></a>
+              <div class="info"><h4>WING STOP</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet urna et quam dignissim....</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-buffalo.php"><img src="img/restaurantes/buffalo/thumb.jpg" class="img-responsive" alt="Restaurante Buffalo Wild Wings Chihuahua"></a>
@@ -74,11 +74,18 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-lasierra.php"><img src="img/restaurantes/lasierra/thumb.jpg" class="img-responsive" alt="Restaurante Pizzería La Sierra Chihuahua"></a>
-              <div class="info"><h4>PIZZERÍA LA SIERRA</h4><p>Pizzería La Sierra es un restaurante emblemático de la región, donde te deleitarás con la auténtica pizza menonita de inigualable...</p></div>
+              <div class="info"><h4>PIZZERÍA LA SIERRA</h4><p>Pizzería La Sierra es un restaurante emblemático de la región, donde te deleitarás con la auténtica pizza menonita...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-el-costenito.php"><img src="img/restaurantes/costenito/thumb.jpg" class="img-responsive" alt="restaurante El Costeñito Chihuahua"></a>
               <div class="info"><h4>EL COSTEÑITO</h4><p>Un lugar en donde la vas a pasar bien con los amigos y disfrutar de ricos mariscos, cocteles y bebidas preparadas...</p></div>
+            </div>
+          </div>
+
+          <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Momma Chihuahua"></a>
+              <div class="info"><h4>MOMMA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
           </div>
 
