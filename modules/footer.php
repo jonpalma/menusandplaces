@@ -31,9 +31,8 @@
                 <ul>
                   <li>
                     <p>ventas@menusandplaces.com <br>
-                      01 (614) 458 8585 <br>
+                      01 (614) 156 7262 <br>
                       01 (614) 152 9808 <br>
-                      01 (614) 458 8585 <br>
                       Chihuahua, México.</p>
                   </li>
                 </ul>

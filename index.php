@@ -99,13 +99,71 @@
       <div class="container">
         <div class="row">
           <div class="">
-            <div class="col-md-6 col-sm-6 marketing"><img src="img/publicidad-1.png" class="img-responsive" alt=""></div>
-            <div class="col-md-6 col-sm-6 marketing"><img src="img/publicidad-2.png" class="img-responsive" alt=""></div>
-            <div class="col-md-6 col-sm-6 marketing"><img src="img/publicidad-3.png" class="img-responsive" alt=""></div>
-            <div class="col-md-6 col-sm-6 marketing"><img src="img/publicidad-4.png" class="img-responsive" alt=""></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p1"><img src="img/publicidad-1.png" class="img-responsive" alt="Buffalo Wild Wins"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p2"><img src="img/publicidad-2.png" class="img-responsive" alt="Coca Cola"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p3"><img src="img/publicidad-3.png" class="img-responsive" alt="Fashion Mall"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p4"><img src="img/publicidad-4.png" class="img-responsive" alt="Automotiz Touche Jeep"></a></div>
           </div>
         </div>
       </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="p1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <img src="img/publicidad-1-1.png" alt="Publicidad" class="img-responsive">
+              <p>Visitar sitio web <a href="http://buffalowildwings.com.mx" target="_blank">www.buffalowildwings.com.mx/</a></p>
+            </div>
+          </div>
+        </div>
+      </div> 
+      <!-- Modal -->
+      <div class="modal fade" id="p2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <img src="img/publicidad-2-1.png" alt="Publicidad" class="img-responsive">
+              <p>Visitar sitio web <a href="http://coca-cola.com.mx" target="_blank">www.coca-cola.com.mx</a></p>
+            </div>
+          </div>
+        </div>
+      </div> 
+      <!-- Modal -->
+      <div class="modal fade" id="p3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <img src="img/publicidad-3-1.png" alt="Publicidad" class="img-responsive">
+              <p>Visitar sitio web <a href="https://es-es.facebook.com/FashionMallChihuahua" target="_blank"> Fashion Mall Facebook</a></p>
+            </div>
+          </div>
+        </div>
+      </div> 
+      <!-- Modal -->
+      <div class="modal fade" id="p4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <img src="img/publicidad-4-1.png" alt="Publicidad" class="img-responsive">
+              <p>Visitar sitio web <a href="http://automotriz-touche.com.mx" target="_blank">www.automotriz-touche.com.mx</a></p>
+            </div>
+
+          </div>
+        </div>
+      </div> 
 
       <?php include('modules/footer.php'); ?>
 
