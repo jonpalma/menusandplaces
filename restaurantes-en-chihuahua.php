@@ -31,7 +31,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-wing-stop.php"><img src="img/restaurantes/wingstop/thumb.jpg" class="img-responsive" alt="Restaurante Wing Stop Chihuahua"></a>
-              <div class="info"><h4>WING STOP</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet urna et quam dignissim....</p></div>
+              <div class="info"><h4>WING STOP</h4><p>Wing Stop es un lugar con un ambiente que te hará salirte de la rutina, ideal para disfrutar...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-buffalo.php"><img src="img/restaurantes/buffalo/thumb.jpg" class="img-responsive" alt="Restaurante Buffalo Wild Wings Chihuahua"></a>
