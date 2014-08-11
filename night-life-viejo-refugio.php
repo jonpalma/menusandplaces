@@ -48,8 +48,7 @@
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 123.4567 <br><br>
-                   <span class="info-rest">Dirección: </span>Perif. de la Juventud Local 14 Plaza La Isla  <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Dirección: </span>Perif. de la Juventud Local 14 Plaza La Isla  <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
