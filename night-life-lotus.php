@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Bares Sports Garden en Chihuahua</title>
+    <title>Menus and Places | Night Life Lotus en Chihuahua</title>
 
-    <meta name="description" content="Sports Garden es uno de los bares deportivos con más tradición en la ciudad, toda una vida reuniendo amigos">
-    <meta name="keywords" content="bares en chihuahua, bar sports garden, sports garden chihuahua, bar deportivo, botanas, cerveza, bebidas preparadas, música en vivo, buen ambiente">
+    <meta name="description" content="Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos.">
+    <meta name="keywords" content="Night life en chihuahua, tragos, buenos amigos, pista de baile, música, pop en inglés, pop en español,  bebidas">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Sports Garden <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Lotus <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
-        <div class="row"> 
-          <div class="col-md-12">
-            <img src="img/bares/sports-garden/sports-garden.jpg" class="img-responsive" alt="Bar Sports Garden Chihuahua">
-          </div> <br><br>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
+          <div class="row"> 
+            <div class="col-md-12">
+              <img src="img/nightlife/lotus/lotus.jpg" class="img-responsive" alt="Night Life Lotus Chihuahua">
+            </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/bares/sports-garden/logo.jpg" alt="Logotipo Sports Garden">
+            <img src="img/nightlife/lotus/logo.jpg" alt="Logotipo Lotus">
           </div>
         </div>
       </div>
@@ -40,16 +40,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Sports Garden es uno de los bares deportivos con más tradición en la ciudad, toda una vida reuniendo amigos para ver los juegos importantes en cualquier deporte. Este mundial ven y vive el buen ambiente mientras pides una rica botana o destapas unas heladas. Si tienes antojo de tomar enserio, prueba sus bebidas preparadas y diviértete con la música en vivo durante los fines de semana.</p>
+            <p><span class="titulo-rest"></span> Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos. Se ha puesto muy de moda, bastante gente (especialmente niñas guapas) lo visitan. La pista de baile luminosa que cambia de color al ritmo de la música pop en inglés y en español te harán presumir tus mejores pasos de baile. Haz reservación y arréglate bien, no sabes cuando vas a conocer a esa persona especial.</p>
 
-            <p>Sports Garden is one of the classics around here, a traditional spot and favorite among locals. Friends have gathered here to watch ‘’the game’’ for years. Take advantage of the atmosphere during this world cup, come and enjoy some cold beers and snacks on its bar; if you’re planning of going heavy, try their prepared drinks and enjoy the live music during the weekends.</p>
+            <p>Lotus is the perfect place to grab some drinks and forget about the week’s stress in the company of your funniest friends. It has gotten very popular among locals (specially pretty ladies) Plus, the magic dancefloor that changes colors to the beat of the music will guarantee to put your best dance moves in practice. Great place to party and have a good time.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 414.5286 <br><br>
-                   <span class="info-rest">Dirección: </span>Av. San Felipe Col. San Felipe No. 1008-D  <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 614423.0065 <br><br>
+                   <span class="info-rest">Dirección: </span>Perif. de la Juventud No. 6112   <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
@@ -74,7 +74,7 @@
               <div class="col-md-6 text-info"> <br>
                 <p>
                   <span class="info-rest">Horario: </span><br>
-                    L - S: 6pm a 2am   <br>  <br>
+                    J - S: 9pm a 2am <br>  <br>
 
                     <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
               </div>
@@ -82,10 +82,12 @@
                 <a href="#" id="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>
                 <a href="#" id="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
                 <a href="#" id="element4"  data-toggle="tooltip" data-placement="top" title="Área de fumar"><img src="img/iconos/4.png" alt="area de fumar"></a>
+                <a href="#" id="element5"  data-toggle="tooltip" data-placement="top" title="Valet Parking"><img src="img/iconos/5.png" alt="valet parking"></a>
                 <a href="#" id="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
+                <a href="#" id="element7"  data-toggle="tooltip" data-placement="top" title="Terraza"><img src="img/iconos/7.png" alt="terraza"></a>
                 <a href="#" id="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
                 <a href="#" id="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
-                <a href="#" id="element11"  data-toggle="tooltip" data-placement="top" title="Música en vivo"><img src="img/iconos/11.png" alt="música en vivo"></a>
+                <a href="#" id="element11"  data-toggle="tooltip" data-placement="top" title="Música en vivo"><img src="img/iconos/11.png" alt="musica en vivo"></a>
               </div>
             </div> 
           </div> <br>

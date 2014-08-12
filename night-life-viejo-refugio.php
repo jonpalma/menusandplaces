@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Bares El Viejo Refugio en Chihuahua</title>
+    <title>Menus and Places | Night Life El Viejo Refugio en Chihuahua</title>
 
     <meta name="description" content="El Viejo Refugio es un lugar donde se reúne gente adulta y madura. Una cantina que nos hacia falta, para recordar tiempos dorados">
-    <meta name="keywords" content="Bares en chihuahua, bar el viejo refugio, el viejo refugio chihuahua, cantina, tiempos dorados, estilo antiguo, barra, mole, platillos mexicanos">
+    <meta name="keywords" content="vida nocturna en chihuahua, el viejo refugio, el viejo refugio chihuahua, cantina, tiempos dorados, estilo antiguo, barra, mole, platillos mexicanos">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -25,14 +25,14 @@
         <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
         <div class="row"> 
           <div class="col-md-12">
-            <img src="img/bares/viejo-refugio/viejo-refugio.jpg" class="img-responsive" alt="Bar El Viejo Refugio Chihuahua">
+            <img src="img/nightlife/viejo-refugio/viejo-refugio.jpg" class="img-responsive" alt="Night Life El Viejo Refugio Chihuahua">
           </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/bares/viejo-refugio/logo.jpg" alt="Logotipo El Viejo Refugio">
+            <img src="img/nightlife/viejo-refugio/logo.jpg" alt="Logotipo El Viejo Refugio">
           </div>
         </div>
       </div>

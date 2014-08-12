@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Bares María Diablita en Chihuahua</title>
+    <title>Menus and Places | Night Life Sports Garden en Chihuahua</title>
 
-    <meta name="description" content="María Diablita es concepto de cantina-restaurante que combina la buena comida con los buenos tragos">
-    <meta name="keywords" content="Bares en chihuahua, bar María diablita, maría diablita chihuahua, cantina, comida, tragos, torta, tacos, caldos, sopes, antojos mexicanos, cervezas, chelas, mezcal">
+    <meta name="description" content="Sports Garden es uno de los bares deportivos con más tradición en la ciudad, toda una vida reuniendo amigos">
+    <meta name="keywords" content="bares en chihuahua, sports garden, sports garden chihuahua, bar deportivo, botanas, cerveza, bebidas preparadas, música en vivo, buen ambiente">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -18,21 +18,21 @@
         </div>
     <div class="container">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > María Diablita <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Sports Garden <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
       <div class="container"> 
         <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
         <div class="row"> 
           <div class="col-md-12">
-            <img src="img/bares/maria-diablita/maria-diablita.jpg" class="img-responsive" alt="Bar María Diablita Chihuahua">
+            <img src="img/nightlife/sports-garden/sports-garden.jpg" class="img-responsive" alt="Night Life Sports Garden Chihuahua">
           </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/bares/maria-diablita/logo.jpg" alt="Logotipo María Diablita">
+            <img src="img/nightlife/sports-garden/logo.jpg" alt="Logotipo Sports Garden">
           </div>
         </div>
       </div>
@@ -40,16 +40,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span>María Diablita es concepto de cantina-restaurante que combina la buena comida con los buenos tragos y buen ambiente. Esta temporada del mundial es un lugar ideal para reunirse con los amigos desde temprano, ordenar una torta, tacos, caldos, sopes o cualquier antojo mexicano. Ven y comienza a destapar las chelas desde temprano o si traes antojo de algo más serio, pide un mezcalito de su selección.</p>
+            <p><span class="titulo-rest"></span> Sports Garden es uno de los bares deportivos con más tradición en la ciudad, toda una vida reuniendo amigos para ver los juegos importantes en cualquier deporte. Este mundial ven y vive el buen ambiente mientras pides una rica botana o destapas unas heladas. Si tienes antojo de tomar enserio, prueba sus bebidas preparadas y diviértete con la música en vivo durante los fines de semana.</p>
 
-            <p>María Diablita is a restaurant-bar that combines good food with cool atmosphere. An ideal spot to gather with your friends during this World Cup and get some Mexican specialties like tacos, sandwiches, soup and more. If you're feeling like, try some of their selected Mezcal(cousin of Tequila) or just come and grab some beers to keep the stress out of your mind.(Located close to the main Hotels).</p>
+            <p>Sports Garden is one of the classics around here, a traditional spot and favorite among locals. Friends have gathered here to watch ‘’the game’’ for years. Take advantage of the atmosphere during this world cup, come and enjoy some cold beers and snacks on its bar; if you’re planning of going heavy, try their prepared drinks and enjoy the live music during the weekends.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 430.0492 <br><br>
-                   <span class="info-rest">Dirección: </span>Av. de la Empresa No. 3110, Plaza Loretto, Local 9  <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 614 414.5286 <br><br>
+                   <span class="info-rest">Dirección: </span>Av. San Felipe Col. San Felipe No. 1008-D  <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
@@ -74,7 +74,7 @@
               <div class="col-md-6 text-info"> <br>
                 <p>
                   <span class="info-rest">Horario: </span><br>
-                    L - D: 12pm a 2am   <br>  <br>
+                    L - S: 6pm a 2am   <br>  <br>
 
                     <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
               </div>
@@ -83,9 +83,9 @@
                 <a href="#" id="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
                 <a href="#" id="element4"  data-toggle="tooltip" data-placement="top" title="Área de fumar"><img src="img/iconos/4.png" alt="area de fumar"></a>
                 <a href="#" id="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
-                <a href="#" id="element7"  data-toggle="tooltip" data-placement="top" title="Terraza"><img src="img/iconos/7.png" alt="terraza"></a>
                 <a href="#" id="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
                 <a href="#" id="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
+                <a href="#" id="element11"  data-toggle="tooltip" data-placement="top" title="Música en vivo"><img src="img/iconos/11.png" alt="música en vivo"></a>
               </div>
             </div> 
           </div> <br>

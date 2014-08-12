@@ -85,7 +85,7 @@
               <div class="info"><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="cafes-y-postres.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
+              <a href="places.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
