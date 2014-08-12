@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Callejero en Chihuahua</title>
+    <title>Menus and Places | Local Food Trucks en Chihuahua</title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
     <meta name="keywords" content="Restaurantes en chihuahua, deli burger chihuahua, burritos el chapo chihuahua, hamburguesas hechas como dios manda chihuahua">
@@ -16,7 +16,7 @@
     <!-- END / MENU -->
     <div class="container cont-sup">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Somos Callejeros <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Local Food Trucks <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
     <!-- RESTAURANTES -->
@@ -26,8 +26,8 @@
         <div class="col-md-9 col-sm-9">
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Deli Burger Chihuahua"></a>
-              <div class="info"><h4>DELI BURGER</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="local-food-trucks-deli.php"><img src="img/local-food-trucks/deli/thumb.jpg" class="img-responsive" alt="Callejero Deli Burger Chihuahua"></a>
+              <div class="info"><h4>DELI BURGER</h4><p>DELI TEAM &amp; GRILL desde 1994 y mejor conocidas como Las hamburguesas que causan adicción, se han destacado...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
