@@ -18,23 +18,25 @@
             </button>
             <a class="navbar-brand" href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logo Menus and Places"></a>
           </div>
-          <div class="navbar-collapse collapse" >
+          <nav class="navbar-collapse collapse" >
             <ul class="nav navbar-nav navbar-right">
               <li><a href="index.php">INICIO</a></li>
               <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">LUGARES <b class="caret"></b></a>
                       <ul class="dropdown-menu">
                         <li><a href="restaurantes-en-chihuahua.php">RESTAURANTES</a></li>
-                        <li><a href="night-life-chihuahua.php">NIGHT LIFE</a></li>
-                        <li><a href="places.php">PLACES</a></li>
-                        <li><a href="comida-en-chihuahua.php">CALLEJEROS</a></li>
+                        <!--<li><a href="#">COMIDA RÁPIDA</a></li> -->
+                        <li><a href="local-food-trucks-chihuahua.php">LOCAL FOOD TRUCKS</a></li>
+                        <li><a href="cafes-y-postres.php">CAFES Y POSTRES</a></li>
+                        <li><a href="bares-chihuahua.php">BARES</a></li>
+                        <li><a href="antros-chihuahua.php">ANTROS</a></li>
                       </ul>
                     </li>
               <li><a href="revista.php">REVISTA DIGITAL</a></li>
               <li><a href="nosotros.php">NOSOTROS</a></li>
               <li><a href="contacto.php">CONTACTO</a></li>
             </ul>
-          </div>
+          </nav>
         </div>
       </div>
     </header>

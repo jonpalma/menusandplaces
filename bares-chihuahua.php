@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Night Life en Chihuahua</title>
+    <title>Menus and Places | Bares en Chihuahua</title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Night life en chihuahua, vida nocturna chihuahua, lotus chihuahua, sports garden chihuahua, rock and bowl chihuahua, el viejo refugio chihuahua">
+    <meta name="keywords" content="Bares en chihuahua, vida nocturna chihuahua, moma chihuahua, sports garden chihuahua, rock and bowl chihuahua, el viejo refugio chihuahua, maria diablita">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -16,7 +16,7 @@
     <!-- END / MENU -->
     <div class="container cont-sup">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Night Life <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Bares <img src="img/icono-tit.png" > </h1></div>
       </div>
     </div>
     <!-- RESTAURANTES -->
@@ -26,30 +26,30 @@
         <div class="col-md-9 col-sm-9">
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="night-life-lotus.php"><img src="img/nightlife/lotus/thumb.jpg" class="img-responsive" alt="Night Life Lotus Chihuahua"></a>
-              <div class="info"><h4>LOTUS</h4><p>Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos...</p></div>
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Bares Moma Chihuahua"></a>
+              <div class="info"><h4>MOMA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="night-life-sports-garden.php"><img src="img/nightlife/sports-garden/thumb.jpg" class="img-responsive" alt="Night Life Sports Garden Chihuahua"></a>
+              <a href="bares-sports-garden.php"><img src="img/bares/sports-garden/thumb.jpg" class="img-responsive" alt="Bar Sports Garden Chihuahua"></a>
               <div class="info"><h4>SPORTS GARDEN</h4><p>Sports Garden es uno de los bares deportivos con más tradición en la ciudad, toda una vida reuniendo...</p></div>
             </div>
            <div class="col-md-4 col-sm-6">
-              <a href="night-life-rockandbowl.php"><img src="img/nightlife/rockandbowl/thumb.jpg" class="img-responsive" alt="Night Life Rock And Bowl Chihuahua"></a>
+              <a href="bares-rockandbowl.php"><img src="img/bares/rockandbowl/thumb.jpg" class="img-responsive" alt="Bar Rock And Bowl Chihuahua"></a>
               <div class="info"><h4>ROCK AND BOWL</h4><p>Rock &amp; Bowl es el único club de boliche en la ciudad, punto de encuentro para amigos y familias...</p></div>
             </div>
           </div>
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="night-life-viejo-refugio.php"><img src="img/nightlife/viejo-refugio/thumb.jpg" class="img-responsive" alt="Night Life El Viejo Refugio Chihuahua"></a>
+              <a href="bares-viejo-refugio.php"><img src="img/bares/viejo-refugio/thumb.jpg" class="img-responsive" alt="Bar El Viejo Refugio Chihuahua"></a>
               <div class="info"><h4>EL VIEJO REFUGIO</h4><p>El Viejo Refugio es un lugar donde se reúne gente adulta y madura. Una cantina que nos hacia falta...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Night Life Delorean Chihuahua"></a>
-              <div class="info"><h4>DELOREAN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="bares-aguafuerte.php"><img src="img/bares/aguafuerte/thumb.jpg" class="img-responsive" alt="Bar El Aguafuerte Chihuahua"></a>
+              <div class="info"><h4>AGUAFUERTE</h4><p>El Aguafuerte es una cantina que te transporta al Chihuahua antiguo, su esencia lo convierten en un lugar...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="night-life-aguafuerte.php"><img src="img/nightlife/aguafuerte/thumb.jpg" class="img-responsive" alt="Night Life El Aguafuerte Chihuahua"></a>
-              <div class="info"><h4>AGUAFUERTE</h4><p>El Aguafuerte es una cantina que te transporta al Chihuahua antiguo, su esencia lo convierten en un lugar...</p></div>
+              <a href="bares-maria-diablita.php"><img src="img/bares/maria-diablita/thumb.jpg" class="img-responsive" alt="Bar Delorean Chihuahua"></a>
+              <div class="info"><h4>MARÍA DIABLITA</h4><p>María Diablita es concepto de cantina-restaurante que combina la buena comida con los buenos tragos...</p></div>
             </div>
           </div>
       </div>

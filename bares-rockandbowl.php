@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Night Life Rock &amp; Bowl en Chihuahua</title>
+    <title>Menus and Places | Bares Rock &amp; Bowl en Chihuahua</title>
 
     <meta name="description" content="Rock &amp; Bowl es el único club de boliche en la ciudad, punto de encuentro para amigos y familias amantes de esta actividad.">
-    <meta name="keywords" content="vida nocturna en chihuahua, rock and bowl, rock and bowl chihuahua, bolos, boliche, boliche en chihuahua, hamburguesas, nachos, hot dogs, botanas, cerveza">
+    <meta name="keywords" content="Bares en chihuahua, bar rock and bowl, rock and bowl chihuahua, bolos, boliche, boliche en chihuahua, hamburguesas, nachos, hot dogs, botanas, cerveza">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -25,14 +25,14 @@
         <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
         <div class="row"> 
           <div class="col-md-12">
-            <img src="img/nightlife/rockandbowl/rockandbowl.jpg" class="img-responsive" alt="Night Life Rock &amp; Bowl Chihuahua">
+            <img src="img/bares/rockandbowl/rockandbowl.jpg" class="img-responsive" alt="Bar Rock &amp; Bowl Chihuahua">
           </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/nightlife/rockandbowl/logo.jpg" alt="Logotipo Rock &amp; Bowl">
+            <img src="img/bares/rockandbowl/logo.jpg" alt="Logotipo Rock &amp; Bowl">
           </div>
         </div>
       </div>
