@@ -14,9 +14,10 @@
                 <h3>SERVICIOS </h3>
                 <ul>
                   <li><a href="restaurantes-en-chihuahua.php">- Restaurantes</a></li>
-                  <li><a href="night-life-chihuahua.php">- Night Life</a></li>
-                  <li><a href="places.php">- Places </a></li>
-                  <li><a href="comida-en-chihuahua.php">- Callejeros </a></li>
+                  <li><a href="antros-chihuahua.php">- Antros</a></li>
+                  <li><a href="bares-chihuahua.php">- Bares </a></li>
+                  <li><a href="cafes-y-postres.php">- Cafés y Postres </a></li>
+                  <li><a href="local-food-trucks-chihuahua.php">- Local Food Trucks </a></li>
                 </ul>
               </div>
               <div class="col-lg-3 col-md-3 col-sm-3 white">

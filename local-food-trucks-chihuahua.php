@@ -30,7 +30,7 @@
               <div class="info"><h4>DELI BURGER</h4><p>DELI TEAM &amp; GRILL desde 1994 y mejor conocidas como Las hamburguesas que causan adicción, se han destacado...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
+              <a href="local-food-trucks-chapo.php"><img src="img/local-food-trucks/chapo/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
               <div class="info"><h4>BURRITOS EL CHAPO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">

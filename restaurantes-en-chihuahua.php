@@ -81,14 +81,6 @@
               <div class="info"><h4>EL COSTEÑITO</h4><p>Un lugar en donde la vas a pasar bien con los amigos y disfrutar de ricos mariscos, cocteles y bebidas preparadas...</p></div>
             </div>
           </div>
-
-          <div class="">
-            <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Moma Chihuahua"></a>
-              <div class="info"><h4>MOMA</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
-            </div>
-          </div>
-
       </div>
         <div class="col-md-3 col-sm-3">
           <a href="#" target="_blank"><img src="img/restaurantes/publicidad.jpg" class="img-responsive" alt=""></a>

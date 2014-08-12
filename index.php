@@ -81,7 +81,7 @@
               <div class="info"><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="night-life-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
+              <a href="antros-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -89,7 +89,7 @@
               <div class="info"><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
-              <a href="comida-en-chihuahua.php"><img src="img/4.png" class="img-responsive" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
+              <a href="local-food-trucks-chihuahua.php"><img src="img/4.png" class="img-responsive" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
               <div class="info"><p>Lorem ipsum dolor  ratione accusamus ipsa ut facere fugit voluptatum odio assumenda quidem eaque incidunt optio.</p></div>
             </div>
           </div> 

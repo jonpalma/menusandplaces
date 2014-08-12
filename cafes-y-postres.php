@@ -26,21 +26,21 @@
         <div class="col-md-9 col-sm-9">
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Places El Hojaldre Chihuahua"></a>
-              <div class="info"><h4>EL HOJALDRE</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <a href="cafes-y-postres-hojaldre.php"><img src="img/cafes-y-postres/hojaldre/thumb.jpg" class="img-responsive" alt="Cafés y Postres El Hojaldre Chihuahua"></a>
+              <div class="info"><h4>EL HOJALDRE</h4><p>El Hojaldre es un lugar que muestra a nuestra ciudad tal y como es. Pequeño, acogedor y con pocas mesas le dan...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="cafes-y-postres-elefantebastilla.php"><img src="img/cafes-y-postres/elefantebastilla/thumb.jpg" class="img-responsive" alt="Places El Elefante De La Bastilla Chihuahua"></a>
+              <a href="cafes-y-postres-elefantebastilla.php"><img src="img/cafes-y-postres/elefantebastilla/thumb.jpg" class="img-responsive" alt="Cafés y Postres El Elefante De La Bastilla Chihuahua"></a>
               <div class="info"><h4>EL ELEFANTE DE LA BASTILLA</h4><p>Elefante de la Bastilla es una pequeña...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Places Betty Cookie Chihuahua"></a>
+              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Cafés y Postres Betty Cookie Chihuahua"></a>
               <div class="info"><h4>BETTY COOKIE</h4><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
             </div>
           </div>
           <div class="">
             <div class="col-md-4 col-sm-6">
-              <a href="cafes-y-postres-cafemexico.php"><img src="img/cafes-y-postres/cafemexico/thumb.jpg" class="img-responsive" alt="Places Café México Corazón Chihuahua"></a>
+              <a href="cafes-y-postres-cafemexico.php"><img src="img/cafes-y-postres/cafemexico/thumb.jpg" class="img-responsive" alt="Cafés y Postres Café México Corazón Chihuahua"></a>
               <div class="info"><h4>CAFÉ MÉXICO CORAZÓN</h4><p>Café México Corazón de Melón es un encantador y auténtico lugar que tiene una esencia única...</p></div>
             </div>
 
