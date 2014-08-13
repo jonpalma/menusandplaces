@@ -30,11 +30,11 @@
               <div class="info"><h4>LOTUS</h4><p>Lotus es un lugar perfecto para ir a disfrutar de unos tragos y soltar el estrés de la semana con los buenos amigos...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Antro Barezzito Chihuahua"></a>
+              <a href="antros-barezzito.php"><img src="img/antros/barezzito/thumb.jpg" class="img-responsive" alt="Antro Barezzito Chihuahua"></a>
               <div class="info"><h4>BAREZZITO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
            <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Antro Delorean Chihuahua"></a>
+              <a href="antros-delorean.php"><img src="img/antros/delorean/thumb.jpg" class="img-responsive" alt="Antro Delorean Chihuahua"></a>
               <div class="info"><h4>DELOREAN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
           </div>

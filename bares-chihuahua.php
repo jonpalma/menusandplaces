@@ -26,7 +26,7 @@
         <div class="col-md-9 col-sm-9">
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Bares Moma Chihuahua"></a>
+              <a href="bares-moma.php"><img src="img/bares/moma/thumb.jpg" class="img-responsive" alt="Bares Moma Chihuahua"></a>
               <div class="info"><h4>MOMA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
