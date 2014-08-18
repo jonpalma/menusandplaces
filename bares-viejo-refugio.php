@@ -75,7 +75,7 @@
                   <span class="info-rest">Horario: </span><br>
                     L - D: 1pm a 2am   <br>  <br>
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
                 <a href="#" id="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>

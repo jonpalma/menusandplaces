@@ -27,7 +27,7 @@
             </ol>
             <div class="carousel-inner">
               <div class="item active">
-                <img src="img/banner/1.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua">
+                <a href="http://menusandplaces.com/restaurantes-akari.php"><img src="img/banner/1.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
                     <h1></h1>
@@ -35,14 +35,14 @@
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/2.jpg" class="img-responsive" alt="Restaurante Baldoria Chihuahua">
+                <a href="http://menusandplaces.com/restaurantes-baldoria.php"><img src="img/banner/2.jpg" class="img-responsive" alt="Restaurante Baldoria Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/3.jpg" class="img-responsive" alt="Restaurante Buffalo Wild Wings Chihuahua">
+                <a href="http://menusandplaces.com/restaurantes-buffalo.php"><img src="img/banner/3.jpg" class="img-responsive" alt="Restaurante Buffalo Wild Wings Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
@@ -50,14 +50,14 @@
               </div>
              
               <div class="item">
-                <img src="img/banner/4.jpg" class="img-responsive" alt="Restaurante El Costeñito Chihuahua">
+                <a href="http://menusandplaces.com/restaurantes-el-costenito.php"><img src="img/banner/4.jpg" class="img-responsive" alt="Restaurante El Costeñito Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
                 </div>
               </div>
               <div class="item">
-                <img src="img/banner/5.jpg" class="img-responsive" alt="Restaurante Barrigas Chihuahua">
+                <a href="http://menusandplaces.com/restaurantes-barrigas.php"><img src="img/banner/5.jpg" class="img-responsive" alt="Restaurante Barrigas Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
                   </div>
@@ -78,19 +78,19 @@
             
             <div class="col-md-3 col-sm-6">
               <a href="restaurantes-en-chihuahua.php"><img src="img/1.png" class="img-responsive" alt="Restaurantes de comida en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <div class="info"><p>Restauratnes de Comida en Chihuahua</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
               <a href="antros-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><p>Vida nocturano en Chihuahua.</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
               <a href="cafes-y-postres.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
+              <div class="info"><p>Places en Chihuahua</p></div>
             </div>
             <div class="col-md-3 col-sm-6">
               <a href="local-food-trucks-chihuahua.php"><img src="img/4.png" class="img-responsive" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Lorem ipsum dolor  ratione accusamus ipsa ut facere fugit voluptatum odio assumenda quidem eaque incidunt optio.</p></div>
+              <div class="info"><p>Comida callejera en Chihuahua</p></div>
             </div>
           </div> 
         </div> <br><br>

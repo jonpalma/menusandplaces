@@ -34,12 +34,12 @@
               <p>MENUSANDPLACES es una marca posicionado en el ramo de FOOD AND LIFESTYLE, el perfil de nuestro lector/usuario/seguidor es: personas que buscan de acceso a la información para el mayor aprovechamiento de la oferta restaurantera, turística y de entretenimiento en la ciudad. 
 
                 Contamos con 3 plataformas:</p>
-                <a href="revista.php"><img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide"></a>
+                <!-- <a href="revista.php"><img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide"></a>-->
                 <p>Es nuestra guía impresa bimensual, tenemos presencia en los cuartos de los principales hoteles de la ciudad y comercios y corporativos locales.</p> 
-                <a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a>
-                <p>Es nuestra <em>fan page</em> de <em>FACEBOOK</em>, contamos con poco más de 9,000 seguidores con crecimientos de poco más de 1,000 por mes e impactos globales de más de 30,000 mensuales.</p> 
-                <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>
-                <p>Es nuestro sitio web en donde encontrarás una guía de los lugares más concurridos de la ciudad, algunos nuevos, los clásicos, los puestesitos y mucho más.</p>
+                <!--<a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a> -->
+                <p>Es nuestra <em>fan page</em> de <a href="http://facebook.com/menusandplaceschih" target="_blank"><em>FACEBOOK</em></a>, contamos con poco más de 9,000 seguidores con crecimientos de poco más de 1,000 por mes e impactos globales de más de 30,000 mensuales.</p> 
+                <!-- <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>-->
+                <p>Es nuestro sitio web <a href="http://menusandplaces.com"> www.menusandplaces.com</a> en donde encontrarás una guía de los lugares más concurridos de la ciudad, algunos nuevos, los clásicos, los puestesitos y mucho más.</p>
               <p>Para mayor información contáctanos <a href="contacto.php">aquí</a>.</p>
           </div>
           <div class="col-md-5 texto">

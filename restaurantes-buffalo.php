@@ -78,7 +78,7 @@
                    D - Mi: 12pm a 12am <br>
                     J - S: 12pm a 1am <br>  <br>
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
                 <a href="#" id="element1"  data-toggle="tooltip" data-placement="top" title="Wifi"><img src="img/iconos/1.png" alt="wifi"></a>

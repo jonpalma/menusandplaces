@@ -73,7 +73,7 @@
               </div>
               <div class="col-md-6 text-info"> <br>
                 <p>
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
                 <a href="#" id="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>

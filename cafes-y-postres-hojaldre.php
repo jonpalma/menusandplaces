@@ -76,7 +76,7 @@
                   <span class="info-rest">Horario: </span><br>
                     M - D: 9am a 9.30pm <br>  <br>
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Descargar</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
                 <a href="#" id="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
