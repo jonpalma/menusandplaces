@@ -80,8 +80,6 @@
               <p><strong>Teléfono:</strong> 614 156 7262 / 614 152 9808  <br><br>
                  <strong>Email:</strong> <a href="#">ventas@menusandplaces.com</a></p> <br>
               <a href="revista.php"><img src="img/logo-cityguide.jpg" class="img-responsive" alt="Logotipo menusandplaces city guide"></a>
-              <a href="http://facebook.com/menusandplaceschih" target="_blank"><img src="img/logo-community.jpg" class="img-responsive" alt="Logotipo menusandplaces commnunity"></a>
-              <a href="index.php"><img src="img/logo-menusandplaces.jpg" class="img-responsive" alt="Logotipo menusandplaces.com"></a>
             </div>
           </div> 
         </div> <br>

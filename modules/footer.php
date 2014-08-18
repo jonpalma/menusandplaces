@@ -3,7 +3,7 @@
           <div class="container" style="background:#353535;">
             <div class="row">
               <div class="col-lg-3 col-md-3 col-sm-3 white">
-                <h3>MENUS AND PLACES</h3>
+                <h3>MENUSANDPLACES</h3>
                 <ul>
                   <li>
                     <p>En Menus and Places ofrecemos un servicio de calidad personalizado, tranparente y leal a nuestros clientes fomentando las relaciones a largo plazo.</p>

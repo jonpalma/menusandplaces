@@ -76,21 +76,23 @@
         <div class="row"> 
           <div class="">
             
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-2 col-sm-6">
               <a href="restaurantes-en-chihuahua.php"><img src="img/1.png" class="img-responsive" alt="Restaurantes de comida en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Restauratnes de Comida en Chihuahua</p></div>
             </div>
-            <div class="col-md-3 col-sm-6">
-              <a href="antros-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Vida nocturano en Chihuahua.</p></div>
+            <div class="col-md-2 col-sm-6">
+              <a href="bares-chihuahua.php"><img src="img/2.png" class="img-responsive" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
             </div>
-            <div class="col-md-3 col-sm-6">
-              <a href="cafes-y-postres.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Places en Chihuahua</p></div>
+            <div class="col-md-2 col-sm-6">
+              <a href="antros-chihuahua.php"><img src="img/3.png" class="img-responsive" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-2 col-sm-6">
               <a href="local-food-trucks-chihuahua.php"><img src="img/4.png" class="img-responsive" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
-              <div class="info"><p>Comida callejera en Chihuahua</p></div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <a href="cafes-y-postres.php"><img src="img/5.png" class="img-responsive" alt="Cafés y Postres en chihuahua" title="Ver Revista Online"></a>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <a href="#"><img src="img/6.png" class="img-responsive" alt="Comida rápida en chihuahua" title="Ver Revista Online"></a>
             </div>
           </div> 
         </div> <br><br>

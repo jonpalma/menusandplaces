@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Restaurantes en Chihuahua</title>
+    <title>menusandplaces | Restaurantes en Chihuahua</title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
     <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
@@ -15,7 +15,7 @@
     <?php include('modules/menu.php'); ?> <br>
     <div class="container cont-sup">
       <div class="row">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Menus and Places <img src="img/icono-tit.png" alt=""> </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> menusandplaces <img src="img/icono-tit.png" alt=""> </h1></div>
       </div>
     </div>
       <div class="container"> 
@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-7 texto">
-            <h4><strong>¿Qué es Menus and Places?</strong></h4>
+            <h4><strong>¿Qué es menusandplaces?</strong></h4>
               <p>MENUSANDPLACES es una marca posicionado en el ramo de FOOD AND LIFESTYLE, el perfil de nuestro lector/usuario/seguidor es: personas que buscan de acceso a la información para el mayor aprovechamiento de la oferta restaurantera, turística y de entretenimiento en la ciudad. 
 
                 Contamos con 3 plataformas:</p>

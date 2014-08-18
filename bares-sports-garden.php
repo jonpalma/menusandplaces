@@ -13,9 +13,7 @@
 
     <!-- MENU -->
     <?php include('modules/menu.php'); ?> <br>
-        <div align="center" class="cont-sup">
-              <div class="publicidad-rest"><img src="img/publicidad-5.jpg" class="img-responsive" alt=""></div>
-        </div>
+        <?php include('modules/publicidad.php'); ?>
     <div class="container">
       <div class="row">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Sports Garden <img src="img/icono-tit.png" > </h1></div>

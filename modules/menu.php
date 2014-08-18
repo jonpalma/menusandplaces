@@ -22,17 +22,17 @@
             <ul class="nav navbar-nav navbar-right">
               <li><a href="index.php">INICIO</a></li>
               <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">LUGARES <b class="caret"></b></a>
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">CITY GUIDE <b class="caret"></b></a>
                       <ul class="dropdown-menu">
                         <li><a href="restaurantes-en-chihuahua.php">RESTAURANTES</a></li>
-                        <!--<li><a href="#">COMIDA RÁPIDA</a></li> -->
-                        <li><a href="local-food-trucks-chihuahua.php">LOCAL FOOD TRUCKS</a></li>
-                        <li><a href="cafes-y-postres.php">CAFES Y POSTRES</a></li>
                         <li><a href="bares-chihuahua.php">BARES</a></li>
                         <li><a href="antros-chihuahua.php">ANTROS</a></li>
+                        <li><a href="local-food-trucks-chihuahua.php">FOOD TRUCKS/PUESTOS</a></li>
+                        <li><a href="cafes-y-postres.php">CAFES Y POSTRES</a></li>
+                        <li><a href="#">COMIDA RÁPIDA</a></li>
                       </ul>
                     </li>
-              <li><a href="revista.php">REVISTA DIGITAL</a></li>
+              <li><a href="revista.php">REVISTA </a></li>
               <li><a href="nosotros.php">NOSOTROS</a></li>
               <li><a href="contacto.php">CONTACTO</a></li>
             </ul>
