@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Menus and Places | Restaurantes Italianissimmo en Chihuahua</title>
 
-    <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
-    <meta name="keywords" content="Restaurantes en chihuahua, restauratnes de chihuahua, comida en chihuahua, revista de restaurantes, quiero comer en chihuahua">
+    <meta name="description" content="Italianisimmo en este restaurante podemos encontrar las deliciosas ensaladas del Chef y Molla Tuscana Dell">
+    <meta name="keywords" content="Restaurantes en chihuahua, Italianisimmo, Italianisimmo chihuahua, ensaladas, ensalada del chef, ensalada molla tuscana dell, lasagna, lasagna di camarone, pasta, pasta fettuccine, pizzas, salsas, cocina italiana, tiramisú">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -21,7 +21,7 @@
           <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Italianismo <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Italianisimmo <img src="img/icono-tit.png" > </h1></div>
         </div>
         <div class="col-md-4">
           <?php include('modules/iconos.php'); ?>
@@ -48,9 +48,9 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p>
+            <p><span class="titulo-rest"></span> Italianisimmo en este restaurante podemos encontrar las deliciosas ensaladas del Chef y Molla Tuscana Dell; como plato principal, la Lasagna  Di Camarone, o la tradicional pasta Fettuccine. Sin duda una de sus especialidades favoritas son sus Pizzas tradicionales con exquisitos ingredientes y salsas típicas de la cocina italiana. No podemos terminar una deliciosa comida sin el toque dulce con el mejor Tiramisú de la ciudad. Disfruta ésta y todas tus ocasiones especiales en Italianisimmo.</p>
 
-            <p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p>
+            <p>Italianisimmo in this Italian restaurant you would find their delicious salads like the Insalata Molla Tuscana Dell and the Insalata del Chef. As a main course the Lasagna Di Camarone or the traditional Fettuccine. Certainly one of their favorite specialties is the traditional Pizza with delicious sauces and typical ingredients of Italian cuisine. For a great end with the sweetest touch, try the best Tiramisu in town. Enjoy this and all your special occasions in Italianisimmo.</p>
 
           </div>
           <div class="col-md-5 text-info-1">

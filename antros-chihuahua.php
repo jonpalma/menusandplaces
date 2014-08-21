@@ -45,7 +45,7 @@
             </div>
            <div class="col-md-4 col-sm-6">
               <a href="antros-delorean.php"><img src="img/antros/delorean/thumb.jpg" class="img-responsive" alt="Antro Delorean Chihuahua"></a>
-              <div class="info"><h4>DELOREAN</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><h4>DELOREAN</h4><p>Delorean está en el corazón de esta ciudad; silencioso por fuera, ruidoso por dentro. Al pasar por su...</p></div>
             </div>
           </div>
       </div>

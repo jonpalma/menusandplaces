@@ -78,7 +78,7 @@
           <div class="">
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-italianisimmo.php"><img src="img/restaurantes/italianisimmo/thumb.jpg" class="img-responsive" alt="Restaurante Italianisimmo Chihuahua"></a>
-              <div class="info"><h4>ITALIANISIMMO</h4><p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p></div>
+              <div class="info"><h4>ITALIANISIMMO</h4><p>Italianisimmo en este restaurante podemos encontrar las deliciosas ensaladas del Chef y Molla Tuscana Dell...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-lasierra.php"><img src="img/restaurantes/lasierra/thumb.jpg" class="img-responsive" alt="Restaurante Pizzería La Sierra Chihuahua"></a>

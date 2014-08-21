@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Antros Delorean 5 en Chihuahua</title>
+    <title>Menus and Places | Cafés y Postres Betty Cooker en Chihuahua</title>
 
-    <meta name="description" content=".">
-    <meta name="keywords" content="">
+    <meta name="description" content="Betty Cooker es una cocina económica que ha dado servicio a muchos chihuahuenses desde 1991. Se caracteriza por el buen servicio que damos">
+    <meta name="keywords" content="Cafés y postres en chihuahua, Lugares en chihuahua, betty cooker, betty cooker chihuahua, cocina económica, enchiladas, milanesas, sabor de hogar, servicio a domicilio">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -21,7 +21,7 @@
           <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Delorean 5 <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png"> Betty Cooker <img src="img/icono-tit.png" > </h1></div>
         </div>
         <div class="col-md-4">
           <?php include('modules/iconos.php'); ?>
@@ -33,14 +33,14 @@
         <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/antros/delorean/delorean.jpg" class="img-responsive" alt="Antro Delorean 5 Chihuahua">
+              <img src="img/cafes-y-postres/betty/betty.jpg" class="img-responsive" alt="Cafetería Betty Cooker Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/antros/delorean/logo.jpg" alt="Logotipo Delorean 5">
+            <img src="img/cafes-y-postres/betty/logo.jpg" alt="Logotipo Betty Cooker">
           </div>
         </div>
       </div>
@@ -48,16 +48,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Delorean está en el corazón de esta ciudad; silencioso por fuera, ruidoso por dentro. Al pasar por su peculiar entrada se descubre el diseño innovador y diferente que lleva los sentidos a otro nivel. la música alternativa, moderna y lejos de lo comercial ofrece una noche única. Un concepto interesante con una decoración ecléctica y una barra amplia para servir sus bebidas preparadas exóticamente.</p>
+            <p><span class="titulo-rest"></span> Betty Cooker es una cocina económica que ha dado servicio a muchos chihuahuenses desde 1991. Se caracteriza por el buen servicio que damos, las enchiladas y milanesas, todo con un sabor de hogar para aquellas personas que por falta de tiempo no puedan hacer comida para su hogar o no llevan comida para su trabajo. Cuentan con una gran ventaja para el comensal, que es el servicio a domicilio. Despreocúpate sobre qué comer hoy.</p>
 
-            <p>Delorean is a special spot that hides in the middle of the city. Silent from the outside, noise on the inside. The modern and electronic music, far from commercial, is what makes it different and definitely worth the visit. Decorated in an eclectic way, with a long bar to serve the exotic drinks, this unique place is good option for a good night out.</p>
+            <p>Betty Cooker it's a delicious home-cooked restaurant who have been preparing meals in town since 1991. It's known for their great service, along with the enchiladas and milanesas prepared with the homemade taste for everyone who can't cook at home. Do not worry about what to eat today; they've got home-delivery service.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 131.2374 <br><br>
-                   <span class="info-rest">Dirección: </span>Calle 17 No. 5 Col. Centro   <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 614 415.0898 <br><br>
+                   <span class="info-rest">Dirección: </span>Ankara No. 2012 Col. Mirador   <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
@@ -81,17 +81,14 @@
               </div>
               <div class="col-md-6 text-info"> <br>
                 <p>
+                  <span class="info-rest">Horario: </span><br>
+                    L - V: 11am a 4pm <br>
+                    S: 11am a 2pm<br>  <br>
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a>
-                </p> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
-                <a href="#" class="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>
-                <a href="#" class="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
-                <a href="#" class="element4"  data-toggle="tooltip" data-placement="top" title="Área de fumar"><img src="img/iconos/4.png" alt="area de fumar"></a>
                 <a href="#" class="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
-                <a href="#" class="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
-                <a href="#" class="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
               </div>
             </div> 
           </div> <br>

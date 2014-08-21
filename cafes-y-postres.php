@@ -44,8 +44,8 @@
               <div class="info"><h4>EL ELEFANTE DE LA BASTILLA</h4><p>Elefante de la Bastilla es una pequeña...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Cafés y Postres Betty Cookie Chihuahua"></a>
-              <div class="info"><h4>BETTY COOKIE</h4><p>Lorem ipsum dolor sit lectus, ratione ipsum invelis, reiciendis consequatur iste dolorum tempora dicta.</p></div>
+              <a href="cafes-y-postres-betty.php"><img src="img/cafes-y-postres/betty/thumb.jpg" class="img-responsive" alt="Cafés y Postres Betty Cookie Chihuahua"></a>
+              <div class="info"><h4>BETTY COOKER</h4><p>Betty Cooker es una cocina económica que ha dado servicio a muchos chihuahuenses desde 1991...</p></div>
             </div>
           </div>
           <div class="">
