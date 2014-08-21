@@ -21,7 +21,7 @@
           <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Buffalo Wild Wings <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Burritos El Chapo <img src="img/icono-tit.png" > </h1></div>
         </div>
         <div class="col-md-4">
           <?php include('modules/iconos.php'); ?>
@@ -48,16 +48,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p>
+            <p><span class="titulo-rest"></span> Los mejores Burritos de la Tecnológico y sus alrededores. Disfruta con familiares y amigos de su exquisito sazón en sus diferentes platillos acompañado de un fresco y natural jugo de naranja.</p>
 
-            <p>Lorem ipsum dolor sit amet, consectecto in, abusto nobis nam eligendi quibusdam voluptatum dololuta maxime deserunt.</p>
+            <p>The best Burritos around Tecnológico street. Enjoy with your family and friends of their delicious seasoning in all of their dishes accompanied by a fresh and natural orange juice.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 123.4567 <br><br>
-                   <span class="info-rest">Dirección: </span>Camino a Mordor No. 9999   <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 614 131.9763 <br><br>
+                   <span class="info-rest">Dirección: </span>C. Fresno y Tecnológico No. 1923 / Col. Granjas    <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
@@ -81,12 +81,10 @@
               </div>
               <div class="col-md-6 text-info"> <br>
                 <p>
-                  <span class="info-rest">Horario: </span><br>
-                    Ma - J: 8am a 10pm  <br>
-                    V - S: 8am a 11pm <br>
-                    D: 8am a 8pm  <br>  <br>
+                  
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a>
+                </p>
               </div>
               <div class="col-md-12">
                 <a href="#" class="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>

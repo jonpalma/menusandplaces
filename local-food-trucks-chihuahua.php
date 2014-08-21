@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="local-food-trucks-chapo.php"><img src="img/local-food-trucks/chapo/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
-              <div class="info"><h4>BURRITOS EL CHAPO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><h4>BURRITOS EL CHAPO</h4><p>Los mejores Burritos de la Tecnológico y sus alrededores. Disfruta con familiares y amigos de su exquisito...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Hamburguesas Hechas Como Dios Manda Chihuahua"></a>
