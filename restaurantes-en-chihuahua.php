@@ -91,7 +91,7 @@
           </div>
       </div>
         <div class="col-md-3 col-sm-3">
-          <a href="#" target="_blank"><img src="img/restaurantes/publicidad.jpg" class="img-responsive" alt=""></a>
+          <?php include('modules/publicidad-lateral.php'); ?>
        </div> <br><br>
       </div> 
     </div> 
