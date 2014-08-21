@@ -89,29 +89,13 @@
                     <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
-                <a href="#" id="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
+                <a href="#" class="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
               </div>
             </div> 
           </div> <br>
         </div>
 
       <?php include('modules/footer.php'); ?>
-
-        <script>
-          $(document).ready(function(){
-            $('#element1').tooltip('hide');
-            $('#element2').tooltip('hide');
-            $('#element3').tooltip('hide');
-            $('#element4').tooltip('hide');
-            $('#element5').tooltip('hide');
-            $('#element6').tooltip('hide');
-            $('#element7').tooltip('hide');
-            $('#element8').tooltip('hide');
-            $('#element9').tooltip('hide');
-            $('#element10').tooltip('hide');
-            $('#element11').tooltip('hide');
-          });
-        </script>
 
   </body>
 </html>

@@ -76,3 +76,19 @@
       a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/7404.js?"+Math.floor(new Date().getTime()/3600000);
       a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
       </script> 
+    <!--Tooltip-->
+      <script>
+          $(document).ready(function(){
+            $('.element1').tooltip('hide');
+            $('.element2').tooltip('hide');
+            $('.element3').tooltip('hide');
+            $('.element4').tooltip('hide');
+            $('.element5').tooltip('hide');
+            $('.element6').tooltip('hide');
+            $('.element7').tooltip('hide');
+            $('.element8').tooltip('hide');
+            $('.element9').tooltip('hide');
+            $('.element10').tooltip('hide');
+            $('.element11').tooltip('hide');
+          });
+        </script>

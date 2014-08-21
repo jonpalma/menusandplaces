@@ -93,32 +93,16 @@
                     <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
-                <a href="#" id="element1"  data-toggle="tooltip" data-placement="top" title="Wifi"><img src="img/iconos/1.png" alt="wifi"></a>
-                <a href="#" id="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>
-                <a href="#" id="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
-                <a href="#" id="element9"  data-toggle="tooltip" data-placement="top" title="Área de niños"><img src="img/iconos/9.png" alt="área de niños"></a>
+                <a href="#" class="element1"  data-toggle="tooltip" data-placement="top" title="Wifi"><img src="img/iconos/1.png" alt="wifi"></a>
+                <a href="#" class="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>
+                <a href="#" class="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
+                <a href="#" class="element9"  data-toggle="tooltip" data-placement="top" title="Área de niños"><img src="img/iconos/9.png" alt="área de niños"></a>
               </div>
             </div> 
           </div> <br>
         </div>
 
       <?php include('modules/footer.php'); ?>
-
-        <script>
-          $(document).ready(function(){
-            $('#element1').tooltip('hide');
-            $('#element2').tooltip('hide');
-            $('#element3').tooltip('hide');
-            $('#element4').tooltip('hide');
-            $('#element5').tooltip('hide');
-            $('#element6').tooltip('hide');
-            $('#element7').tooltip('hide');
-            $('#element8').tooltip('hide');
-            $('#element9').tooltip('hide');
-            $('#element10').tooltip('hide');
-            $('#element11').tooltip('hide');
-          });
-        </script>
 
   </body>
 </html>

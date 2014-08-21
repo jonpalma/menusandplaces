@@ -87,30 +87,14 @@
                     <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
               </div>
               <div class="col-md-12">
-                <a href="#" id="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
-                <a href="#" id="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
+                <a href="#" class="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
+                <a href="#" class="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
               </div>
             </div> 
           </div> <br>
         </div>
 
       <?php include('modules/footer.php'); ?>
-
-        <script>
-          $(document).ready(function(){
-            $('#element1').tooltip('hide');
-            $('#element2').tooltip('hide');
-            $('#element3').tooltip('hide');
-            $('#element4').tooltip('hide');
-            $('#element5').tooltip('hide');
-            $('#element6').tooltip('hide');
-            $('#element7').tooltip('hide');
-            $('#element8').tooltip('hide');
-            $('#element9').tooltip('hide');
-            $('#element10').tooltip('hide');
-            $('#element11').tooltip('hide');
-          });
-        </script>
 
   </body>
 </html>
