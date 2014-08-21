@@ -16,7 +16,15 @@
     <!-- END / MENU -->
     <div class="container cont-sup">
       <div class="row">
+        <div class="col-md-4">
+          <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
+        </div>
+        <div class="col-md-4">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Restaurantes <img src="img/icono-tit.png" > </h1></div>
+        </div>
+        <div class="col-md-4">
+          <?php include('modules/iconos.php'); ?>
+        </div>
       </div>
     </div> 
     <!-- RESTAURANTES -->
@@ -92,5 +100,20 @@
     <!-- FOOTER -->
       <?php include('modules/footer.php'); ?>
     <!-- END / FOOTER -->
+     <script>
+          $(document).ready(function(){
+            $('#element1').tooltip('hide');
+            $('#element2').tooltip('hide');
+            $('#element3').tooltip('hide');
+            $('#element4').tooltip('hide');
+            $('#element5').tooltip('hide');
+            $('#element6').tooltip('hide');
+            $('#element7').tooltip('hide');
+            $('#element8').tooltip('hide');
+            $('#element9').tooltip('hide');
+            $('#element10').tooltip('hide');
+            $('#element11').tooltip('hide');
+          });
+        </script>
   </body>
 </html>

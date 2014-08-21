@@ -28,8 +28,8 @@
                         <li><a href="bares-chihuahua.php">BARES</a></li>
                         <li><a href="antros-chihuahua.php">ANTROS</a></li>
                         <li><a href="local-food-trucks-chihuahua.php">FOOD TRUCKS/PUESTOS</a></li>
-                        <li><a href="cafes-y-postres.php">CAFES Y POSTRES</a></li>
-                        <li><a href="#">COMIDA RÁPIDA</a></li>
+                        <li><a href="cafes-y-postres.php">CAFÉS Y POSTRES</a></li>
+                        <li><a href="#">COMIDA CASERA</a></li>
                       </ul>
                     </li>
               <li><a href="revista.php">REVISTA </a></li>

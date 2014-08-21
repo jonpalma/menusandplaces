@@ -14,11 +14,21 @@
     <!-- MENU -->
     <?php include('modules/menu.php'); ?> <br>
     <!-- END / MENU -->
-    <div class="container cont-sup">
+    <!-- NOMBRE -->
+    <div class="container">
       <div class="row">
+        <div class="col-md-4">
+          <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
+        </div>
+        <div class="col-md-4">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Antros <img src="img/icono-tit.png" > </h1></div>
+        </div>
+        <div class="col-md-4">
+          <?php include('modules/iconos.php'); ?>
+        </div>
       </div>
-    </div>
+    </div> 
+    <!-- END / NOMBRE -->
     <!-- RESTAURANTES -->
     <div class="container"> 
       <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
