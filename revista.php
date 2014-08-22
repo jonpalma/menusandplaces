@@ -18,6 +18,15 @@
           <div class="titulo"><h1> <img src="img/icono-tit.png" alt=""> Revista Digital <img src="img/icono-tit.png" alt=""> </h1></div>
       </div>
     </div>
+    <div class="container"> 
+        <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
+          <div class="row"> 
+            <div class="col-md-12">
+              <div data-configid="0/9020629" style="width: 100%; height: 700px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+              <br>
+            </div>
+      </div> 
+    </div> 
 
       <div class="container"> 
         <div class="lines"> <img src="img/lines.png" class="img-responsive" alt=""></div>
@@ -29,6 +38,7 @@
             </div>
       </div> 
     </div> 
+
 
       <?php include('modules/footer.php'); ?>
 
