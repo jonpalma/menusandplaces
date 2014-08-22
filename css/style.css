@@ -240,8 +240,12 @@ footer {
 
 /* MediaQueries */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 767px) {
     .navbar-brand > img { position: absolute; top: 5px; left: 2px;}
     .navbar-collapse > ul { position: absolute; right: 15px; top: 65px; background: none repeat scroll 0% 0% #FFF; border: 2px solid #F60; border-radius: 5px;}
+}
+
+@media only screen and (max-width: 990px) {
     .imgcentrado { display: block; margin-left: auto; margin-right: auto;}
 }
+

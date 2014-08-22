@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Menus and Places | Antros Barezzito en Chihuahua</title>
+    <title>Menus and Places | Restaurantes Green Organic en Chihuahua</title>
 
-    <meta name="description" content="Todo un clásico en la ciudad, se ha hecho popular entre los que no sólo buscan tomar unas copas y escuchar música">
-    <meta name="keywords" content="Antros en Chihuahua, Barezzito, barezzito chihuahua, copas, música en vivo, shots, bebidas preparadas, bar, sushi">
+    <meta name="description" content="Un cocepto local, todo gira alrededor de los productos orgánicos y naturales de alta calidad, así como el buen comer.">
+    <meta name="keywords" content="Restaurantes en Chihuahua, Restaurante Green Organic, green organic chihuahua, ensalada de atún, quiche de espinacas, taco de chocolate, servicio a la carta, desayunos, vinos orgánicos, cerveza artesanal, comida orgánica">
     <?php include('modules/head.php'); ?>
   </head>
   <body>
@@ -21,7 +21,7 @@
           <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
-          <div class="titulo"><h1> <img src="img/icono-tit.png" > Barezzito <img src="img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="img/icono-tit.png" > Green Organic <img src="img/icono-tit.png" > </h1></div>
         </div>
         <div class="col-md-4">
           <?php include('modules/iconos.php'); ?>
@@ -30,17 +30,17 @@
     </div> 
     <!-- END / NOMBRE -->
       <div class="container"> 
-        <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
-          <div class="row"> 
-            <div class="col-md-12">
-              <img src="img/antros/barezzito/barezzito.jpg" class="img-responsive" alt="Antro Barezzito Chihuahua">
-            </div> <br><br>
+        <div class="lines"> <img src="img/lines.png" class="img-responsive"></div>
+        <div class="row"> 
+          <div class="col-md-12">
+            <img src="img/restaurantes/green-organic/green-organic.jpg" class="img-responsive" alt="Restaurante Green Organic Chihuahua">
+          </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/antros/barezzito/logo.jpg" alt="Logotipo Barezzito">
+            <img src="img/restaurantes/green-organic/logo.jpg" alt="Logotipo Green Organic">
           </div>
         </div>
       </div>
@@ -48,16 +48,16 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Todo un clásico en la ciudad, se ha hecho popular entre los que no sólo buscan tomar unas copas y escuchar música sino por toda la experiencia: conocer gente, reunirse con viejos amigos, disfrutar de la música en vivo y los shots especiales de la casa. Aquí se vive bajo la filosofía "si no me acuerdo, no pasó", así es que te recomendamos tomar muchas fotos para rescatar esas memorias al día siguiente.</p>
+            <p><span class="titulo-rest"></span> Un cocepto local, todo gira alrededor de los productos orgánicos y naturales de alta calidad, así como el buen comer. Aquí no sólo cocinan, sino que mezclan y crean sabores únicos con los alimentos más complementos y sanos. Una comida saludable y deleite para el paladar. Diario tienen servicio a la carta, desayunos y un menú express itinerante de lunes a viernes para la hora de comida. Además tienen una variedad de productos para llevar a casa y venden vinos orgánicos y cerveza artesanal. Fresco y saludable, ¡qué mejor para verano!</p>
 
-            <p>A classic around here, people don't just come here to grab some drinks and listen to music, they come for the full experience: meeting people, gather with old friends, enjoy the live music and the special house drinks. The philosophy is "if I don't remember it, it didn't happen", so we recommend to take as many pictures as you can to recover all those lost memories the next day.</p>
+            <p>A local concept where high quality organic products and good food are combined. Here they don't just cook, they create and fuze unique flavours with the most complete and healthy foods, always being delicious and well prepared. They serve breakfast daily and weekdays an express menu at lunchtime including entry, salad, soup and the main course. You can always order à la carte. They also support local farmers and producers and sell a vaiety of products to take home. Refresh yourself with craft beer or the organic wine selection.</p>
 
           </div>
           <div class="col-md-5 text-info-1">
             <div class="col-md-6"> <br>
                 <address>
-                <p><span class="info-rest">Teléfono:</span> 614 239.3927 <br><br>
-                   <span class="info-rest">Dirección: </span>Periférico de la Juventud #4101 Plaza Rock &amp; Bowl   <br> Chihuahua, México. <br><br>
+                <p><span class="info-rest">Teléfono:</span> 614 423.4347 <br><br>
+                   <span class="info-rest">Dirección: </span>Av. Washington #1600 int 307 Plaza Tres Vías  <br> Chihuahua, México. <br><br>
                    <span class="info-rest">Ubicación:</span>
                    <a href="#"  data-toggle="modal" data-target="#myModal"> Ver ubicación </a>
                     <!-- Modal -->
@@ -81,21 +81,13 @@
               </div>
               <div class="col-md-6 text-info"> <br>
                 <p>
-                  <span class="info-rest">Horario: </span><br>
-                    M - S: 7pm a 2am <br>  <br>
 
-                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a> 
+                    <span class="info-rest">Ver Menu:</span> <a href="#">Próximamente</a>
+                </p>
               </div>
               <div class="col-md-12">
-                <a href="#" class="element2"  data-toggle="tooltip" data-placement="top" title="Bar"><img src="img/iconos/2.png" alt="bar"></a>
-                <a href="#" class="element3"  data-toggle="tooltip" data-placement="top" title="TV"><img src="img/iconos/3.png" alt="tv"></a>
-                <a href="#" class="element4"  data-toggle="tooltip" data-placement="top" title="Área de fumar"><img src="img/iconos/4.png" alt="area de fumar"></a>
-                <a href="#" class="element5"  data-toggle="tooltip" data-placement="top" title="Valet Parking"><img src="img/iconos/5.png" alt="valet parking"></a>
                 <a href="#" class="element6"  data-toggle="tooltip" data-placement="top" title="Estacionamiento"><img src="img/iconos/6.png" alt="estacionamiento"></a>
-                <a href="#" class="element7"  data-toggle="tooltip" data-placement="top" title="Terraza"><img src="img/iconos/7.png" alt="terraza"></a>
-                <a href="#" class="element8"  data-toggle="tooltip" data-placement="top" title="Eventos privados"><img src="img/iconos/8.png" alt="eventos privados"></a>
                 <a href="#" class="element10"  data-toggle="tooltip" data-placement="top" title="Reservaciones"><img src="img/iconos/10.png" alt="reservaciones"></a>
-                <a href="#" class="element11"  data-toggle="tooltip" data-placement="top" title="Música en vivo"><img src="img/iconos/11.png" alt="musica en vivo"></a>
               </div>
             </div> 
           </div> <br>

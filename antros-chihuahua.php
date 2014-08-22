@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="antros-barezzito.php"><img src="img/antros/barezzito/thumb.jpg" class="img-responsive" alt="Antro Barezzito Chihuahua"></a>
-              <div class="info"><h4>BAREZZITO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><h4>BAREZZITO</h4><p>Todo un clásico en la ciudad, se ha hecho popular entre los que no sólo buscan tomar unas copas y escuchar música...</p></div>
             </div>
            <div class="col-md-4 col-sm-6">
               <a href="antros-delorean.php"><img src="img/antros/delorean/thumb.jpg" class="img-responsive" alt="Antro Delorean Chihuahua"></a>

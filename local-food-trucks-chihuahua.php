@@ -48,6 +48,34 @@
               <div class="info"><h4>HAMBURGUESAS HECHAS COMO DIOS MANDA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
           </div>
+          <div class="">
+              <div class="col-md-4 col-sm-6">
+              <a href="local-food-trucks-venecia.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Venecia Chihuahua"></a>
+              <div class="info"><h4>RESTAURANT VENECIA</h4><p>Ubicado a pocos metros de la plaza mayor, el placaio de gobierno y el famoso edificio "La Silla de king Kong"...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="local-food-trucks-thai.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Thai Food Chihuahua"></a>
+              <div class="info"><h4>THAI FOOD</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic commodi dignissimos...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos Juarez Chihuahua"></a>
+              <div class="info"><h4>BURRITOS JUAREZ</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
+          </div>
+          <div class="">
+              <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Venecia Chihuahua"></a>
+              <div class="info"><h4>DON MAURI</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus illo explicabo...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Thai Food Chihuahua"></a>
+              <div class="info"><h4>MEMONTADOS</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic commodi dignissimos...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos Juarez Chihuahua"></a>
+              <div class="info"><h4>RUDDI'S HOT DOGS</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+            </div>
+          </div>
       </div>
         <div class="col-md-3 col-sm-3">
           <?php include('modules/publicidad-lateral.php'); ?>

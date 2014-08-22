@@ -62,6 +62,20 @@
               <div class="info"><h4>MARÍA DIABLITA</h4><p>María Diablita es concepto de cantina-restaurante que combina la buena comida con los buenos tragos...</p></div>
             </div>
           </div>
+          <!--<div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Bar The Beer Box Chihuahua"></a>
+              <div class="info"><h4>THE BEER BOX</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam laudantium exercitationem nostrum...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Bar The Beer Box Chihuahua"></a>
+              <div class="info"><h4>MEZCALERÍA DON FERNANDO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam laudantium exercitationem nostrum...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Bar The Beer Box Chihuahua"></a>
+              <div class="info"><h4>DR. ARACLES</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam laudantium exercitationem nostrum...</p></div>
+            </div>
+          </div>-->
       </div>
         <div class="col-md-3 col-sm-3">
           <?php include('modules/publicidad-lateral.php'); ?>

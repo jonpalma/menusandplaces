@@ -89,6 +89,68 @@
               <div class="info"><h4>EL COSTEÑITO</h4><p>Un lugar en donde la vas a pasar bien con los amigos y disfrutar de ricos mariscos, cocteles y bebidas preparadas...</p></div>
             </div>
           </div>
+          <!--<div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-lacasona.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante La Casona Chihuahua"></a>
+              <div class="info"><h4>LA CASONA</h4><p>Ubicado en un imponente edificio histórico del siglo XIX, La Señorial Casona...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-dark-vintich.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Dark Vintich Chihuahua"></a>
+              <div class="info"><h4>DARK VINTICH</h4><p>Vintich es el castellano de "Vintage", término que se aplica a objetos de...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="restaurantes-green-organic.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="restaurante Green Organic Chihuahua"></a>
+              <div class="info"><h4>GREEN ORGANIC</h4><p>Un cocepto local, todo gira alrededor de los productos orgánicos y naturales de...</p></div>
+            </div>
+          </div>
+           <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Ask Monica Chihuahua"></a>
+              <div class="info"><h4>ASK MONICA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet saepe facilis...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Locanda Chihuahua"></a>
+              <div class="info"><h4>LOCANDA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam nostrum consequatur...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="restaurante La Calesa Chihuahua"></a>
+              <div class="info"><h4>LA CALESA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nobis libero magnam natus atque...</p></div>
+            </div>
+          </div>
+          <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Wings Army Chihuahua"></a>
+              <div class="info"><h4>WINGS ARMY</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, sequi, dignissimos...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Cabo Grill Chihuahua"></a>
+              <div class="info"><h4>CABO GRILL</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error nam maxime, a officia...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="restaurante Rodeo Chihuahua"></a>
+              <div class="info"><h4>RODEO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero natus explicabo ducimus...</p></div>
+            </div>
+          </div>
+          <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Tio Taco Chihuahua"></a>
+              <div class="info"><h4>TIO TACO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante Skewers Chihuahua"></a>
+              <div class="info"><h4>SKEWERS</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, odio sunt vero...</p></div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="restaurante B&amp;C Chihuahua"></a>
+              <div class="info"><h4>B&amp;C STEAKHOUSE</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fugit accusantium...</p></div>
+            </div>
+          </div>
+          <div class="">
+            <div class="col-md-4 col-sm-6">
+              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Restaurante El Puerto Chihuahua"></a>
+              <div class="info"><h4>EL PUERTO</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae beatae ratione...</p></div>
+            </div>
+          </div>-->
       </div>
         <div class="col-md-3 col-sm-3">
           <?php include('modules/publicidad-lateral.php'); ?>
