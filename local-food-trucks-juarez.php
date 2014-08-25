@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
+          <a href="local-food-trucks-chihuahua.php"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Burritos Juarez <img src="img/icono-tit.png" > </h1></div>
@@ -33,14 +33,14 @@
         <div class="lines"> <img src="img/lines.png" class="img-responsive" ></div>
           <div class="row"> 
             <div class="col-md-12">
-              <img src="img/local-food-trucks/juarez/juarez.jpg" class="img-responsive" alt="Burritos Juarez Chihuahua">
+              <img src="img/local-food-trucks/burritos-juarez/bjuarez.jpg" class="img-responsive" alt="Burritos juarez Chihuahua">
             </div> <br><br>
         </div> 
       </div> 
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="img/local-food-trucks/juarez/logo.jpg" alt="Logotipo Burritos Juarez">
+            <img src="img/local-food-trucks/burritos-juarez/logo.jpg" alt="Logotipo Burritos Juarez">
           </div>
         </div>
       </div>

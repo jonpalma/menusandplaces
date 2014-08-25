@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
+          <a href="restaurantes-en-chihuahua.php"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
           <div class="titulo"><h1> <img src="img/icono-tit.png" > Come Camila <img src="img/icono-tit.png" > </h1></div>

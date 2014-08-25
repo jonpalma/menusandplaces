@@ -18,7 +18,7 @@
     <div class="container cont-sup">
       <div class="row">
         <div class="col-md-4">
-          <a href="../"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
+          <a href="local-food-trucks-chihuahua.php"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
           <div class="titulo"><h1> <img src="img/icono-tit.png"> Local Food Trucks <img src="img/icono-tit.png" > </h1></div>
@@ -44,25 +44,25 @@
               <div class="info"><h4>BURRITOS EL CHAPO</h4><p>Los mejores Burritos de la Tecnológico y sus alrededores. Disfruta con familiares y amigos de su exquisito...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="restaurantes-akari.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Hamburguesas Hechas Como Dios Manda Chihuahua"></a>
-              <div class="info"><h4>HAMBURGUESAS HECHAS COMO DIOS MANDA</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="local-food-trucks-donmauri.php"><img src="img/local-food-trucks/donmauri/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
+              <div class="info"><h4>DON MAURI</h4><p>Disfruta con familiares y amigos de su exquisito... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum</p></div>
             </div>
           </div>
           <div class="">
               <div class="col-md-4 col-sm-6">
-              <a href="local-food-trucks-venecia.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Venecia Chihuahua"></a>
+              <a href="local-food-trucks-venecia.php"><img src="img/local-food-trucks/venecia/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
               <div class="info"><h4>RESTAURANT VENECIA</h4><p>Ubicado a pocos metros de la plaza mayor, el placaio de gobierno y el famoso edificio "La Silla de king Kong"...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="local-food-trucks-thai.php"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Thai Food Chihuahua"></a>
+              <a href="local-food-trucks-thai-food.php"><img src="img/local-food-trucks/thai-food/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
               <div class="info"><h4>THAI FOOD</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic commodi dignissimos...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
-              <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos Juarez Chihuahua"></a>
-              <div class="info"><h4>BURRITOS JUAREZ</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <a href="local-food-trucks-juarez.php"><img src="img/local-food-trucks/burritos-juarez/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
+              <div class="info"><h4>BURRITOS JUÁREZ</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
           </div>
-          <div class="">
+   <!--   <div class="">
               <div class="col-md-4 col-sm-6">
               <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Venecia Chihuahua"></a>
               <div class="info"><h4>DON MAURI</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus illo explicabo...</p></div>
@@ -75,7 +75,7 @@
               <a href="#"><img src="img/restaurantes/prueba.jpg" class="img-responsive" alt="Callejero Burritos Juarez Chihuahua"></a>
               <div class="info"><h4>RUDDI'S HOT DOGS</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
             </div>
-          </div>
+          </div> -->
       </div>
         <div class="col-md-3 col-sm-3">
           <?php include('modules/publicidad-lateral.php'); ?>
