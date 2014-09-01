@@ -114,7 +114,7 @@
               <!-- IMAGEN RESTAURANT THUMB -->
               <?php if (has_post_thumbnail() ) { the_post_thumbnail( 'list_articles_thumbs' ); }?></a>
 
-        <div class="info"><a href="<?php the_permalink();?>"><h4><?php the_title();?></h4></a><p><?php //the_category();?> <?php the_excerpt(); ?></p></div>
+        <div class="info"><a href="<?php the_permalink();?>"><h4><?php the_title();?></h4></a><p><?php the_category();?> <?php the_excerpt(); ?></p></div>
       </div>
 
     <?php endwhile; else: ?>

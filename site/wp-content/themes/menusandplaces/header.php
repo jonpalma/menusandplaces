@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title><?php bloginfo('the_title');?></title>
+    <title><?php wp_title(); ?></title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
     <meta name="keywords" content="Restaurantes en chihuahua, vida nocturna en chihuahua, lugares en chihuahua, comida callejera en chihuahua, revista de restaurantes, quiero comer en chihuahua">
