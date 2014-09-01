@@ -46,8 +46,6 @@
             <div class="col-md-12">
               <img src="img/logo-kmm.jpg" alt="Logotipo Karan Mann México" class="img-responsive">
             </div>
-
-
           </div> 
         </div> <br>
       </div>
