@@ -48,9 +48,8 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Disfruta con familiares y amigos de su exquisito sazón en sus diferentes platillos acompañado de un fresco.</p>
+            <p><span class="titulo-rest"></span> Ubicado a pocos metros de la plaza mayor, el palacio de gobierno y el famoso edificio “La Silla de King Kong”. Este lugar lleva mas de 40 años sirviendo comida casera. Un favorito entre los locales que frecuentan la zona centro. Se sirve comida corrida de 1:00pm a 7:00pm y también tienen un desayuno buffet ampliamente recomendado. El lugar abre todos los días, sea desayuno, comida o cena el sazón de este lugar tiene un toque especial y muy tradicional.</p>
 
-            <p>Enjoy with your family and friends of their delicious seasoning in all of their dishes accompanied by a fresh.</p>
 
           </div>
           <div class="col-md-5 text-info-1">

@@ -48,9 +48,7 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Disfruta con familiares y amigos de su exquisito sazón en sus diferentes platillos acompañado de un fresco.</p>
-
-            <p>Enjoy with your family and friends of their delicious seasoning in all of their dishes accompanied by a fresh.</p>
+            <p><span class="titulo-rest"></span> Este establecimiento atrajo nuestra atención por su fama de servir unos de los mejores tacos de la ciudad. Además de esto, Don Mauri es uno de los taqueros más amables que conocemos. Todos los días se preparan para recibir clientes que parecen más amigos que clientes. Sus tacos son de rib eye finamente rebanada y savecito. Puedes pedircombinaciones con queso y/o chorizo. Las tortas son muy buenas y las papas con chile de árbol son deliciosas, receta especial de Mauri!</p>
 
           </div>
           <div class="col-md-5 text-info-1">

@@ -48,9 +48,8 @@
         <div class="row">
           <div class="col-md-7 text-rest">
             <h4></h4>
-            <p><span class="titulo-rest"></span> Disfruta con familiares y amigos de su exquisito sazón en sus diferentes platillos acompañado de un fresco.</p>
+            <p><span class="titulo-rest"></span> La comida tailandesa no es algo muy típico de Chihuahua pero que Wan, un inmigrante tailandes, llego, instituyo Thai Food como un favorito entre locales. Un lugar único donde chocan dos culturas. Por uno lado Wan se encarga de deleitar paladares con sus platillos ricos en sabor, ingredientes tailandeses como la ¨galanga¨ y el jengibre. Mientras que el tradicional Bar San Luis se encarga de proveer el cómodo ambiente de una cantina mexicana. En palabras mas simples del maestro Enrique Servin: ¨Wan ha sido lo mas interesante que ha pasado en Chihuahua en los últimos años¨.</p>
 
-            <p>Enjoy with your family and friends of their delicious seasoning in all of their dishes accompanied by a fresh.</p>
 
           </div>
           <div class="col-md-5 text-info-1">

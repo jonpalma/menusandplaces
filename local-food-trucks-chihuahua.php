@@ -45,7 +45,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="local-food-trucks-donmauri.php"><img src="img/local-food-trucks/donmauri/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
-              <div class="info"><h4>DON MAURI</h4><p>Disfruta con familiares y amigos de su exquisito... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum</p></div>
+              <div class="info"><h4>DON MAURI</h4><p>Este establecimiento atrajo nuestra atención por su fama de servir unos de los mejores tacos de la ciudad. Además de esto...</p></div>
             </div>
           </div>
           <div class="">
@@ -55,11 +55,11 @@
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="local-food-trucks-thai-food.php"><img src="img/local-food-trucks/thai-food/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
-              <div class="info"><h4>THAI FOOD</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic commodi dignissimos...</p></div>
+              <div class="info"><h4>THAI FOOD</h4><p>La comida tailandesa no es algo muy típico de Chihuahua pero que Wan, un inmigrante tailandes, llego, instituyo Thai Food como un...</p></div>
             </div>
             <div class="col-md-4 col-sm-6">
               <a href="local-food-trucks-juarez.php"><img src="img/local-food-trucks/burritos-juarez/thumb.jpg" class="img-responsive" alt="Callejero Burritos El Chapo Chihuahua"></a>
-              <div class="info"><h4>BURRITOS JUÁREZ</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing enemo commodi. Autem veritatis culpa rerum ea nesciunt.</p></div>
+              <div class="info"><h4>BURRITOS JUÁREZ</h4><p>Nuestro amigo fotógrafo/escalador "Tiny" nos recomendó estos burritos. Su descripción fue tan convincente que decidimos...</p></div>
             </div>
           </div>
    <!--   <div class="">
