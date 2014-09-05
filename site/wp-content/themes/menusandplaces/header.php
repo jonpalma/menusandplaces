@@ -12,8 +12,10 @@
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url')?>">
     <link rel="stylesheet" href="<?php bloginfo('template_url')?>/css/bootstrap.css">
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url')?>">
+    
+    
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -49,14 +51,17 @@
             <a class="navbar-brand" href="index.php"><img src="<?php bloginfo('template_url')?>/img/logo.png" class="img-responsive" alt="Logo Menus and Places"></a>
           </div>
           <nav class="navbar-collapse collapse" >
-            
-            <?php wp_nav_menu(
-                      array(
-                        'container' => false,
-                        'items_wrap' => '<ul class="nav navbar-nav navbar-right" id="menu-top">%3$s</ul>',
-                        'theme_location' => 'menu',
-                        )); ?>
-             
+            <?php wp_nav_menu( array(
+                            'theme_location'    => 'menu',
+                            'container'     => false,
+                            'menu_class'        => 'nav navbar-nav navbar-right',
+                            'echo'          => true,
+                            'items_wrap'        => '<ul class="%2$s">%3$s</ul>',
+                            'depth'         => 10,
+                            'walker'        => new themeslug_walker_nav_menu
+                        ) );
+
+            ?>  
           </nav>
         </div>
       </div>
