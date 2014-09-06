@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 
-
-  <!-- POST --> <br><br><br><br>
+  <div align="center" class="cont-sup">
+    <div class="publicidad-rest"><a href="http://fordchihuahua.com/site" target="_blank"><img src="<?php bloginfo('template_url')?>/img/publicidad-5.jpg" class="img-responsive" alt="Ford Chihuahua Motors"></a></div>
+</div>
+  <!-- POST --> 
   <div class="container">
       <div class="row">
         <div class="col-md-4">
@@ -30,14 +32,14 @@
       <div class="row"> 
         <div class="col-md-12 col-sm-9">
           <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-            <img src="<?php echo CFS()->get('imagen_central'); ?>" class="img-responsive" alt="<?php the_title();?> Chihuahua">
+            <img src="<?php echo CFS()->get('imagen_central'); ?>" class="img-responsive" alt="<?php the_title();?> Chihuahua"> 
         </div><br /><br />
       </div>
     </div>
         <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <img src="<?php echo CFS()->get('logotipo'); ?>" alt="Logotipo <?php the_title();?>">
+          <img src="<?php echo CFS()->get('logotipo'); ?>" alt="Logotipo <?php the_title();?>"> 
           </div>
         </div>
       </div>

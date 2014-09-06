@@ -1,4 +1,13 @@
+/*
+Theme Name: Menus and Places
+Theme URI: http://mixen.mx
+Author: Agencia Mixen
+Author URI: http://mixen.mx/
+Description: Tema para la empresa Menus and Places.
+Version: 1.0
+Text Domain: Menus and Places
 
+*/
 
 /*
 
@@ -99,6 +108,7 @@ hr {
     border-top: 6px solid #ff6600;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    border-top: 6px solid #F60 !important;
 }
 
 .marketing {
