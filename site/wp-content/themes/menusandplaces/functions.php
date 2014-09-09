@@ -18,6 +18,19 @@ register_sidebar( array(
 	'after_title' => '</h3>',
 	));
 
+//trim excerpt lenght
+function get_excerpt(){
+$excerpt = get_the_content();
+$excerpt = preg_replace(" (\[.*?\])",'',$excerpt);
+$excerpt = strip_shortcodes($excerpt);
+$excerpt = strip_tags($excerpt);
+$excerpt = substr($excerpt, 0, 112);
+$excerpt = substr($excerpt, 0, strripos($excerpt, " "));
+$excerpt = trim(preg_replace( '/\s+/', ' ', $excerpt));
+$excerpt = $excerpt.' [ ... ]';
+return $excerpt;
+}
+
 //Custom Nav Menu Walker Function
 class themeslug_walker_nav_menu extends Walker_Nav_Menu {
   
