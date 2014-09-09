@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title><?php wp_title(); ?></title>
+    <title><?php wp_title(''); ?></title>
 
     <meta name="description" content="Conoce algunos de los mejores Restaurantes en Chihuahua, excelentes lugares y platillos que disfrutaras.">
     <meta name="keywords" content="Restaurantes en chihuahua, vida nocturna en chihuahua, lugares en chihuahua, comida callejera en chihuahua, revista de restaurantes, quiero comer en chihuahua">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Agencia Mixen - www.mixen.mx">
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="<?php bloginfo('template_url')?>/img/favicon.ico">
 
     <!-- CSS -->
     <link rel="stylesheet" href="<?php bloginfo('template_url')?>/css/bootstrap.css">

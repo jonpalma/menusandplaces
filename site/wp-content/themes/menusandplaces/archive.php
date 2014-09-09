@@ -12,7 +12,7 @@
           <a href="restaurantes-en-chihuahua.php"><span class="glyphicon glyphicon-circle-arrow-left back">  </span></a>
         </div>
         <div class="col-md-4">
-          <div class="titulo"><h1> <img src="<?php bloginfo('template_url')?>/img/icono-tit.png" > <?php wp_title(); ?>  <img src="<?php bloginfo('template_url')?>/img/icono-tit.png" > </h1></div>
+          <div class="titulo"><h1> <img src="<?php bloginfo('template_url')?>/img/icono-tit.png" > <?php wp_title(''); ?>  <img src="<?php bloginfo('template_url')?>/img/icono-tit.png" > </h1></div>
         </div>
         <div class="col-md-4">
           <div class="iconos">
