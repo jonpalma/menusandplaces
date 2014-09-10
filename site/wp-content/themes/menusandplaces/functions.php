@@ -18,7 +18,17 @@ register_sidebar( array(
 	'after_title' => '</h3>',
 	));
 
-//trim excerpt lenght
+//Title not empty
+add_filter( 'wp_title', 'baw_hack_wp_title_for_home' );
+function baw_hack_wp_title_for_home( $title )
+{
+  if( empty( $title ) && ( is_home() || is_front_page() ) ) {
+    return __( 'Inicio', 'theme_domain' ) . ' | Menus and Places';
+  }
+  return $title;
+}
+
+//trim excerpt length
 function get_excerpt(){
 $excerpt = get_the_content();
 $excerpt = preg_replace(" (\[.*?\])",'',$excerpt);

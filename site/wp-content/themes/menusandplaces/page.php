@@ -15,7 +15,7 @@
           <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
           
            <div class="col-md-12 col-sm-6 " class="img-responsive">
-              <div><p><?php //the_category();?> <?php the_content(); ?></p></div>
+              <?php the_content(); ?>
             </div>
 
           <?php endwhile; else: ?>
