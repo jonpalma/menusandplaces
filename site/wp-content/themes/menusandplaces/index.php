@@ -1,4 +1,9 @@
-<?php get_header(); ?>
+<?php 
+/*
+Template Name: Inicio
+*/
+        get_header(); 
+?>
 
 	<!-- SLIDE -->
 	<?php include (TEMPLATEPATH. '/slideshow.php'); ?>
@@ -34,10 +39,10 @@
       <div class="container">
         <div class="row">
           <div class="">
-            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p1"><img src="<?php bloginfo('template_url')?>/img/publicidad-1.png" class="img-responsive" alt="Buffalo Wild Wins"></a></div>
-            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p2"><img src="<?php bloginfo('template_url')?>/img/publicidad-2.png" class="img-responsive" alt="Coca Cola"></a></div>
-            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p3"><img src="<?php bloginfo('template_url')?>/img/publicidad-3.png" class="img-responsive" alt="Fashion Mall"></a></div>
-            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p4"><img src="<?php bloginfo('template_url')?>/img/publicidad-4.png" class="img-responsive" alt="Automotiz Touche Jeep"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p1"><img src="<?php echo CFS()->get('publicidad_1_small'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_1_empresa'); ?>"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p2"><img src="<?php echo CFS()->get('publicidad_2_small'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_2_empresa'); ?>"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p3"><img src="<?php echo CFS()->get('publicidad_3_small'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_3_empresa'); ?>"></a></div>
+            <div class="col-md-6 col-sm-6 marketing"><a href="#" data-toggle="modal" data-target="#p4"><img src="<?php echo CFS()->get('publicidad_4_small'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_4_empresa'); ?>"></a></div>
           </div>
         </div>
       </div>
@@ -50,8 +55,8 @@
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-              <img src="<?php bloginfo('template_url')?>/img/publicidad-1-1.png" alt="Publicidad" class="img-responsive">
-              <p>Visitar sitio web <a href="http://buffalowildwings.com.mx" target="_blank">www.buffalowildwings.com.mx/</a></p>
+              <img src="<?php echo CFS()->get('publicidad_1_large'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_1_empresa'); ?>">
+              <p>Visitar sitio web <a href="<?php echo CFS()->get('publicidad_1_url'); ?>" target="_blank">aquí</a></p>
             </div>
           </div>
         </div>
@@ -64,8 +69,8 @@
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-              <img src="<?php bloginfo('template_url')?>/img/publicidad-2-1.png" alt="Publicidad" class="img-responsive">
-              <p>Visitar sitio web <a href="http://coca-cola.com.mx" target="_blank">www.coca-cola.com.mx</a></p>
+              <img src="<?php echo CFS()->get('publicidad_2_large'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_1_empresa'); ?>">
+              <p>Visitar sitio web <a href="<?php echo CFS()->get('publicidad_2_url'); ?>" target="_blank">aquí</a></p>
             </div>
           </div>
         </div>
@@ -78,8 +83,8 @@
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-              <img src="<?php bloginfo('template_url')?>/img/publicidad-3-1.png" alt="Publicidad" class="img-responsive">
-              <p>Visitar sitio web <a href="https://es-es.facebook.com/FashionMallChihuahua" target="_blank"> Fashion Mall Facebook</a></p>
+              <img src="<?php echo CFS()->get('publicidad_3_large'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_1_empresa'); ?>">
+              <p>Visitar sitio web <a href="<?php echo CFS()->get('publicidad_3_url'); ?>" target="_blank">aquí</a></p>
             </div>
           </div>
         </div>
@@ -92,8 +97,8 @@
               <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-              <img src="<?php bloginfo('template_url')?>/img/publicidad-4-1.png" alt="Publicidad" class="img-responsive">
-              <p>Visitar sitio web <a href="http://automotriz-touche.com.mx" target="_blank">www.automotriz-touche.com.mx</a></p>
+              <img src="<?php echo CFS()->get('publicidad_4_large'); ?>" class="img-responsive" alt="<?php echo CFS()->get('publicidad_1_empresa'); ?>">
+              <p>Visitar sitio web <a href="<?php echo CFS()->get('publicidad_4_url'); ?>" target="_blank">aquí</a></p>
             </div>
 
           </div>
