@@ -14,6 +14,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="<?php bloginfo('template_url')?>/css/bootstrap.css">
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url')?>">
+    <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
     
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->

@@ -56,7 +56,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
     <script src="<?php bloginfo('template_url')?>/js/bootstrap.min.js"></script>
     <!-- Google Analytics -->
     <script>
@@ -94,7 +94,7 @@
         </script>
     <script type="text/javascript">
     $(document).ready(function(){
-         $("#myCarousel2").carousel();
+         //$("#myCarousel2").carousel();
     });
     </script>
 

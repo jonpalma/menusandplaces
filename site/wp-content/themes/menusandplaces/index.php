@@ -10,22 +10,22 @@
           <div class="">
             
             <div class="col-md-2 col-sm-6">
-              <a href="restaurantes-en-chihuahua.php"><img src="<?php bloginfo('template_url')?>/img/1.png" class="img-responsive imgcentrado" alt="Restaurantes de comida en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 3 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/1.png" class="img-responsive imgcentrado" alt="Restaurantes de comida en chihuahua" title="Ver Revista Online"></a>
             </div>
             <div class="col-md-2 col-sm-6">
-              <a href="bares-chihuahua.php"><img src="<?php bloginfo('template_url')?>/img/2.png" class="img-responsive imgcentrado" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 4 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/2.png" class="img-responsive imgcentrado" alt="Vida nocturna en chihuahua" title="Ver Revista Online"></a>
             </div>
             <div class="col-md-2 col-sm-6">
-              <a href="antros-chihuahua.php"><img src="<?php bloginfo('template_url')?>/img/3.png" class="img-responsive imgcentrado" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 5 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/3.png" class="img-responsive imgcentrado" alt="Lugares en chihuahua" title="Ver Revista Online"></a>
             </div>
             <div class="col-md-2 col-sm-6">
-              <a href="local-food-trucks-chihuahua.php"><img src="<?php bloginfo('template_url')?>/img/4.png" class="img-responsive imgcentrado" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 8 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/4.png" class="img-responsive imgcentrado" alt="Comida callejera en chihuahua" title="Ver Revista Online"></a>
             </div>
             <div class="col-md-2 col-sm-6">
-              <a href="cafes-y-postres.php"><img src="<?php bloginfo('template_url')?>/img/5.png" class="img-responsive imgcentrado" alt="Cafés y Postres en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 6 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/5.png" class="img-responsive imgcentrado" alt="Cafés y Postres en chihuahua" title="Ver Revista Online"></a>
             </div>
             <div class="col-md-2 col-sm-6">
-              <a href="#"><img src="<?php bloginfo('template_url')?>/img/6.png" class="img-responsive imgcentrado" alt="Comida rápida en chihuahua" title="Ver Revista Online"></a>
+              <a href="<?php echo esc_url( get_category_link( 7 ) ); ?>"><img src="<?php bloginfo('template_url')?>/img/6.png" class="img-responsive imgcentrado" alt="Comida rápida en chihuahua" title="Ver Revista Online"></a>
             </div>
           </div> 
         </div> <br><br>

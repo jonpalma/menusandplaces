@@ -24,9 +24,18 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
               <li data-target="#myCarousel" data-slide-to="4"></li>
+              <li data-target="#myCarousel" data-slide-to="5"></li>
             </ol>
             <div class="carousel-inner">
               <div class="item active">
+                <a href="http://menusandplaces.com/restaurantes-akari.php"><img src="img/banner/0.jpg" class="img-responsive" alt="Menus and Places Chihuahua"></a>
+                <div class="container">
+                  <div class="carousel-caption">
+                    <h1></h1>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
                 <a href="http://menusandplaces.com/restaurantes-akari.php"><img src="img/banner/1.jpg" class="img-responsive" alt="Restaurante Akari Chihuahua"></a>
                 <div class="container">
                   <div class="carousel-caption">
